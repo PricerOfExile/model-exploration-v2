@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "poe-model"
+version = "0.1.0"
+description = ""
+authors = ["none <none>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+numpy = "^2.1.0"
+scikit-learn = "^1.5.1"
+torch = {version = "^2.4.0+cpu", source = "pytorch"}
+jinja2 = "^3.1.4"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.1.1"
+
+
+[[tool.poetry.source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

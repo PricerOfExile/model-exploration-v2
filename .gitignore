@@ -1,0 +1,4 @@
+.venv/
+.idea/
+notebooks/sample/samples-1000/*
+notebooks/sample-v2/api-10k-dump-tests/*
