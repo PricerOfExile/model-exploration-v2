@@ -1,0 +1,31 @@
+{
+  "id" : "43f56281e7e94549c47dd40dc15032d846be1eb8278ab9fa39f432e7c43ecb5b",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+28 to Strength" ],
+  "explicitMods" : [ "Adds 7 to 11 Cold Damage to Attacks", "15% increased Cast Speed", "29% increased Armour", "+40% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "e00e8b6b1357f467d02b062e5ae02f3768b4867fe04990cf1af4073f997696b0",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Magic",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 divine",
+  "implicitMods" : [ "+23% to Chaos Resistance" ],
+  "explicitMods" : [ "+291 to Accuracy Rating" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+76 to maximum Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

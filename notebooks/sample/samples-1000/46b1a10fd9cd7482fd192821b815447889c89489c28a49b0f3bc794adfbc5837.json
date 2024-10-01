@@ -1,0 +1,34 @@
+{
+  "id" : "46b1a10fd9cd7482fd192821b815447889c89489c28a49b0f3bc794adfbc5837",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos 1",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "9% increased Cold Damage", "Adds 6 to 10 Cold Damage to Attacks", "+72 to Evasion Rating", "16% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

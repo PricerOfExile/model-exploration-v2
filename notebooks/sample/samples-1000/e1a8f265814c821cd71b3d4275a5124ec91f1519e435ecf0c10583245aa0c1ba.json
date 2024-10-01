@@ -1,0 +1,31 @@
+{
+  "id" : "e1a8f265814c821cd71b3d4275a5124ec91f1519e435ecf0c10583245aa0c1ba",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "+16 to Strength and Dexterity" ],
+  "explicitMods" : [ "+29 to Dexterity", "Adds 7 to 12 Cold Damage to Attacks", "+255 to Accuracy Rating", "29% increased Evasion Rating" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

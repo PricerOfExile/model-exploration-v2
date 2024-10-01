@@ -1,0 +1,31 @@
+{
+  "id" : "503613c72999abea4e04ec207194064ebcb6d22fd10b5a04245f7861a884b6d6",
+  "baseType" : "Lone Antler Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "27% increased Lightning Damage" ],
+  "explicitMods" : [ "8% increased Spell Damage", "Regenerate 67.9 Life per second", "+21% to Cold Resistance", "+34% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Malicious Intent" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

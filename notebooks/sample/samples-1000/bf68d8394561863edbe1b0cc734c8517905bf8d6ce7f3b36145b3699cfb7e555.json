@@ -1,0 +1,31 @@
+{
+  "id" : "bf68d8394561863edbe1b0cc734c8517905bf8d6ce7f3b36145b3699cfb7e555",
+  "baseType" : "Deep One Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "24% increased Cold Damage" ],
+  "explicitMods" : [ "+40 to Strength", "+33 to Dexterity", "19% increased Evasion Rating", "19% increased maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Alacrity" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

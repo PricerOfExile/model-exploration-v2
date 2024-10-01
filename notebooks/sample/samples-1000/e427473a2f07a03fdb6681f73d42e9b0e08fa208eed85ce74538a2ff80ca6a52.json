@@ -1,0 +1,31 @@
+{
+  "id" : "e427473a2f07a03fdb6681f73d42e9b0e08fa208eed85ce74538a2ff80ca6a52",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 6 chaos",
+  "implicitMods" : [ "+21 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "+12 to Dexterity", "21% increased Evasion Rating", "+6 to maximum Energy Shield", "Regenerate 13.3 Life per second", "+27% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

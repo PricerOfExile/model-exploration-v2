@@ -1,0 +1,31 @@
+{
+  "id" : "ba2724af621b54f6262ffee5dbe2e8aa744dfc16da439e01845ddf469cea6401",
+  "baseType" : "Writhing Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "21% increased Attack Damage" ],
+  "explicitMods" : [ "36% increased Armour", "+45 to maximum Mana", "+19% to Fire Resistance", "+1 to Level of all Fire Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Retaliation" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

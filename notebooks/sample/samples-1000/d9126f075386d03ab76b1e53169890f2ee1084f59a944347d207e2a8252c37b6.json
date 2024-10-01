@@ -1,0 +1,31 @@
+{
+  "id" : "d9126f075386d03ab76b1e53169890f2ee1084f59a944347d207e2a8252c37b6",
+  "baseType" : "Rotfeather Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 69,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 35 chaos",
+  "implicitMods" : [ "30% increased Damage" ],
+  "explicitMods" : [ "+19 to Intelligence", "Adds 4 to 10 Physical Damage to Attacks", "Regenerate 49.7 Life per second", "+3% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Dreamer" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

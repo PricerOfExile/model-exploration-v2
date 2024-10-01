@@ -1,0 +1,31 @@
+{
+  "id" : "fb36939a81947fdd08623d3808e13a79b994bba016a38513ca2a27d077cfefca",
+  "baseType" : "Breakrib Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "23% increased Global Physical Damage" ],
+  "explicitMods" : [ "+19 to Strength", "14% increased Lightning Damage", "+46 to maximum Mana", "59% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Persistence" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

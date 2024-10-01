@@ -1,0 +1,31 @@
+{
+  "id" : "cb54bcaf45771ff3ed1b47322dc1ac31874366425dbb55802460360c9a8aeafc",
+  "baseType" : "Studded Belt",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "24% increased Stun Duration on Enemies" ],
+  "explicitMods" : [ "10% reduced Enemy Stun Threshold", "+44 to maximum Energy Shield", "+45 to maximum Mana", "+8% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "33% increased Flask Effect Duration" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

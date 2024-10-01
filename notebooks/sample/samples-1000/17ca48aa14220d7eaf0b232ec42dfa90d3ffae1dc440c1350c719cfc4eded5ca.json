@@ -1,0 +1,41 @@
+{
+  "id" : "17ca48aa14220d7eaf0b232ec42dfa90d3ffae1dc440c1350c719cfc4eded5ca",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 30 chaos",
+  "implicitMods" : [ "+38 to Strength" ],
+  "explicitMods" : [ "17% increased Damage", "+9 to maximum Energy Shield", "+59 to maximum Life", "+44% to Cold Resistance", "+42% to Lightning Resistance", "22% increased Stun and Block Recovery" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Attribute Modifiers)",
+    "values" : [ [ "+11%", 1 ] ]
+  } ],
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : true,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

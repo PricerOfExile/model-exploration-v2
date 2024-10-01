@@ -1,0 +1,31 @@
+{
+  "id" : "27ceec7e7d39982783f2c3006f40654bf57b699932604f26aab5e8f51245d695",
+  "baseType" : "Sapphire Ring",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+25% to Cold Resistance" ],
+  "explicitMods" : [ "+23 to Strength", "5% increased Fire Damage", "+53 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

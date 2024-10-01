@@ -1,0 +1,34 @@
+{
+  "id" : "f9fd0cedbe8009f4d36b6f5e6461dc42bf29dd4dd6b67dee3c5314308fcec897",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "8% increased Cast Speed", "+34 to maximum Life", "+27% to Fire Resistance", "+44% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

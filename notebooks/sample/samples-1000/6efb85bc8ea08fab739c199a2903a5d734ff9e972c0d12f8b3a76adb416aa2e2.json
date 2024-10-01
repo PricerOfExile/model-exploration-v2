@@ -1,0 +1,31 @@
+{
+  "id" : "6efb85bc8ea08fab739c199a2903a5d734ff9e972c0d12f8b3a76adb416aa2e2",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 130 chaos",
+  "implicitMods" : [ "+23% to Chaos Resistance" ],
+  "explicitMods" : [ "+55 to Dexterity", "Adds 5 to 11 Fire Damage to Attacks", "+63 to maximum Mana", "+21% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Your Chilling Towers freeze enemies for 0.2 seconds while they are affected by chilling beams" ],
+  "craftedMods" : [ "Non-Channelling Skills have -7 to Total Mana Cost" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

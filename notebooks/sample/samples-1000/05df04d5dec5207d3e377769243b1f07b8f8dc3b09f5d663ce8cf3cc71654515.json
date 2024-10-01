@@ -1,0 +1,31 @@
+{
+  "id" : "05df04d5dec5207d3e377769243b1f07b8f8dc3b09f5d663ce8cf3cc71654515",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 45,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 12 chaos",
+  "implicitMods" : [ "+17 to Strength and Intelligence" ],
+  "explicitMods" : [ "+32 to Intelligence", "+14 to maximum Energy Shield", "14% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "21% increased Evasion Rating" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

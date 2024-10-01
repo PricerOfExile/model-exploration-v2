@@ -1,0 +1,34 @@
+{
+  "id" : "5a92b33366d9afbfb24113573ca16b7710a94b1723eb0f3da9f5f5fc148d5536",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 55,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos 5",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "15% increased Cast Speed", "+2 to maximum Energy Shield", "+50 to maximum Life", "Gain 4 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "32", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

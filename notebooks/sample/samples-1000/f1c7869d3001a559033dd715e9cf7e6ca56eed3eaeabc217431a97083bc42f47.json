@@ -1,0 +1,31 @@
+{
+  "id" : "f1c7869d3001a559033dd715e9cf7e6ca56eed3eaeabc217431a97083bc42f47",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 30 chaos",
+  "implicitMods" : [ "+20 to Strength and Intelligence" ],
+  "explicitMods" : [ "+36% to Global Critical Strike Multiplier", "+51 to maximum Energy Shield", "Regenerate 93.2 Life per second", "+48 to maximum Mana", "48% increased Mana Regeneration Rate", "28% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Courage" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

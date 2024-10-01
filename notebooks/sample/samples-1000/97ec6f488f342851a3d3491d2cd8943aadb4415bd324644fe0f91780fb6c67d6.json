@@ -1,0 +1,31 @@
+{
+  "id" : "97ec6f488f342851a3d3491d2cd8943aadb4415bd324644fe0f91780fb6c67d6",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 90 chaos",
+  "implicitMods" : [ "+17 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "+26 to Strength", "+88 to maximum Life", "27% increased Rarity of Items found", "+33% to Fire Resistance", "+41% to Cold Resistance", "+1 to Level of all Chaos Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Claws of the Magpie" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

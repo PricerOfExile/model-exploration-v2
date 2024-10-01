@@ -1,0 +1,31 @@
+{
+  "id" : "6d38339de1132b30e9971c6b20fc5e96b3b2430b13f3aa7db7fa256a2fc8149f",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 100 chaos",
+  "implicitMods" : [ "+19% to Chaos Resistance" ],
+  "explicitMods" : [ "+22 to Intelligence", "Adds 1 to 2 Cold Damage to Attacks", "7% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "63", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "13% of Damage taken Recouped as Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

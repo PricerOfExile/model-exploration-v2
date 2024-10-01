@@ -1,0 +1,34 @@
+{
+  "id" : "3706c03a92afadfb84146ec83cf52197452575d7c099d5069b1fe37485ffc035",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+33 to Intelligence", "+46 to maximum Energy Shield", "+38 to maximum Life", "+40% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "+12% to Fire and Chaos Resistances" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "041e0bfaab7aae7e489d12117bbe581c1f68cfdea18b0ed48c7d2204e47aafd9",
+  "baseType" : "Topaz Ring",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 28 chaos",
+  "implicitMods" : [ "+24% to Lightning Resistance" ],
+  "explicitMods" : [ "Adds 3 to 43 Lightning Damage to Attacks", "Gain 2 Life per Enemy Hit with Attacks", "Gain 5 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "2262e1c0256150d177dc50acd35e10876a5b4c1911c5aeddd628d636c07d8668",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 61,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "+12 to all Attributes" ],
+  "explicitMods" : [ "8% increased Fire Damage", "+9 to maximum Energy Shield", "43% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "23% increased Global Critical Strike Chance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

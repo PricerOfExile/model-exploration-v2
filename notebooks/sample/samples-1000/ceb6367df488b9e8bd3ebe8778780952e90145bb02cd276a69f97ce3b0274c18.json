@@ -1,0 +1,31 @@
+{
+  "id" : "ceb6367df488b9e8bd3ebe8778780952e90145bb02cd276a69f97ce3b0274c18",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "+16% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "Adds 10 to 22 Fire Damage to Attacks", "+12 to maximum Life", "Regenerate 32.2 Life per second", "+48% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

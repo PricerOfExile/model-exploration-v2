@@ -1,0 +1,31 @@
+{
+  "id" : "ae0ee73f7072a1e60ce3e5017e255229673cf53ee0cadaa9d3c185b8f3270415",
+  "baseType" : "Avian Twins Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 4 chaos",
+  "implicitMods" : [ "50% of Cold Damage from Hits taken as Lightning Damage" ],
+  "explicitMods" : [ "Adds 7 to 13 Physical Damage to Attacks", "26% increased Lightning Damage", "10% increased Evasion Rating", "+20 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "51", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Saboteur" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

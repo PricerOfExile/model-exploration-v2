@@ -1,0 +1,31 @@
+{
+  "id" : "b1ab38aeddee550a7832487b300e35416f074e2cd6c80e93e80a586e91aa1372",
+  "baseType" : "Fangjaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 3 chaos",
+  "implicitMods" : [ "9% increased maximum Life" ],
+  "explicitMods" : [ "+14 to Strength", "Adds 4 to 10 Physical Damage to Attacks", "+2 to maximum Energy Shield", "+25 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "22", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Spinecruncher" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

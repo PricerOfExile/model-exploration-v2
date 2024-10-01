@@ -1,0 +1,34 @@
+{
+  "id" : "6158ecb9b5e43ab5a190d96260edb7887f5283eaa5700dffad1a4d9c4789904d",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+1 to Level of Socketed Gems", "+19 to Dexterity", "Adds 2 to 4 Physical Damage to Attacks", "Adds 11 to 26 Fire Damage to Attacks", "20% increased Cold Damage" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "acbc80c1695d01cac1fd6d81039f7d44e58ef34e4d2d3466c1244fc6dc03de5e",
+  "baseType" : "Primal Skull Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "Regenerate 2% of Life per second" ],
+  "explicitMods" : [ "+36 to Strength", "+43 to maximum Energy Shield", "Regenerate 58.9 Life per second", "+19 to maximum Mana", "0.3% of Physical Attack Damage Leeched as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Constitution" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

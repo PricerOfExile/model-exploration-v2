@@ -1,0 +1,38 @@
+{
+  "id" : "d445b56d98db9e78507a0b42a72329f83afea0f90281d2bcbe7111954a1770ff",
+  "baseType" : "Diamond Ring",
+  "rarity" : "Rare",
+  "ilvl" : 86,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 40 chaos",
+  "implicitMods" : [ "27% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "Adds 1 to 2 Physical Damage to Attacks", "Regenerate 41.2 Life per second", "55% increased Mana Regeneration Rate", "33% increased Elemental Damage with Attack Skills", "You and your Minions take 40% reduced Reflected Physical Damage" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : true
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

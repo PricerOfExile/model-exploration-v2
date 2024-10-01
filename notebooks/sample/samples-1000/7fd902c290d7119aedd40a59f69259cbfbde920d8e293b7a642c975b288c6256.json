@@ -1,0 +1,31 @@
+{
+  "id" : "7fd902c290d7119aedd40a59f69259cbfbde920d8e293b7a642c975b288c6256",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 11 chaos",
+  "implicitMods" : [ "+14% to Cold and Lightning Resistances" ],
+  "explicitMods" : [ "+21 to Strength", "13% increased Lightning Damage", "69% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "63", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

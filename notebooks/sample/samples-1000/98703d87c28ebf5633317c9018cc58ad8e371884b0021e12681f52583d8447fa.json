@@ -1,0 +1,31 @@
+{
+  "id" : "98703d87c28ebf5633317c9018cc58ad8e371884b0021e12681f52583d8447fa",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+21 to maximum Life" ],
+  "explicitMods" : [ "+13 to all Attributes", "+16 to Intelligence", "Adds 3 to 5 Physical Damage to Attacks", "Adds 4 to 7 Fire Damage to Attacks", "+78 to Evasion Rating" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

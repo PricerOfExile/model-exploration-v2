@@ -1,0 +1,31 @@
+{
+  "id" : "ad22d0f02f8e09bbfd6d35003362ae073eec03d16656d62212acf7e1b505c12e",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+19 to Strength and Intelligence" ],
+  "explicitMods" : [ "Adds 12 to 28 Cold Damage to Attacks", "+33% to Global Critical Strike Multiplier" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "47", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+13% to all Elemental Resistances" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

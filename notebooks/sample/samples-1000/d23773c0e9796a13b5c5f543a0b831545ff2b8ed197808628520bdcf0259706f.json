@@ -1,0 +1,31 @@
+{
+  "id" : "d23773c0e9796a13b5c5f543a0b831545ff2b8ed197808628520bdcf0259706f",
+  "baseType" : "Topaz Ring",
+  "rarity" : "Rare",
+  "ilvl" : 76,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 8 chaos",
+  "implicitMods" : [ "+25% to Lightning Resistance" ],
+  "explicitMods" : [ "Adds 5 to 11 Physical Damage to Attacks", "14% increased Cast Speed", "+52 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Adds 1 to 2 Cold Damage to Attacks" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

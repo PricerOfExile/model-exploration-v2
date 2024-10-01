@@ -1,0 +1,31 @@
+{
+  "id" : "6e23a001955f0fe52643334ea5f4d9775ff4150b9283f9000abcff0458ad04a7",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 chaos",
+  "implicitMods" : [ "+26 to Strength" ],
+  "explicitMods" : [ "+96 to maximum Life", "17% increased Stun and Block Recovery", "7% increased Flask Mana Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "51", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+23% to Cold Resistance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

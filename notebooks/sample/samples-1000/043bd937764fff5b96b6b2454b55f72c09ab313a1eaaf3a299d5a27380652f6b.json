@@ -1,0 +1,31 @@
+{
+  "id" : "043bd937764fff5b96b6b2454b55f72c09ab313a1eaaf3a299d5a27380652f6b",
+  "baseType" : "Wereclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 30 chaos",
+  "implicitMods" : [ "+29% to Global Critical Strike Multiplier" ],
+  "explicitMods" : [ "+40 to Dexterity", "Adds 1 to 43 Lightning Damage to Attacks", "23% increased Evasion Rating", "18% increased maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Path of the Hunter" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

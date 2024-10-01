@@ -1,0 +1,31 @@
+{
+  "id" : "621bc3b8a89cb6435dd13a91f1e6a304cc6100772a5c61f5635c27acd887ea4e",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 6 chaos",
+  "implicitMods" : [ "+19 to Strength and Intelligence" ],
+  "explicitMods" : [ "Adds 4 to 6 Physical Damage to Attacks", "13% increased Global Critical Strike Chance", "+39 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "23", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

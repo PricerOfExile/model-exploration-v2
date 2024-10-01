@@ -1,0 +1,34 @@
+{
+  "id" : "3b0aa249c4b2789498dc08d83206436866f3a02ce5137813d3e7ea9e6b6f1302",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 76,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos #1",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+48 to Strength", "+68 to Evasion Rating", "8% increased Rarity of Items found", "+41% to Cold Resistance", "Focus has 8% increased Cooldown Recovery Rate", "Shock nearby Enemies for 4 Seconds when you Focus" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

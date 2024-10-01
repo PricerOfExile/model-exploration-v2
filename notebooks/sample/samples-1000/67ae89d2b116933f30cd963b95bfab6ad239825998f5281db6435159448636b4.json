@@ -1,0 +1,31 @@
+{
+  "id" : "67ae89d2b116933f30cd963b95bfab6ad239825998f5281db6435159448636b4",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 79,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "12% increased Rarity of Items found" ],
+  "explicitMods" : [ "+4 to all Attributes", "+12 to maximum Energy Shield", "Regenerate 1 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "20", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "915f9694ed36e18bd5712f97d41eaa41c3af907fe1a9aeab6d15f383bc865530",
+  "baseType" : "Moonstone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "+20 to maximum Energy Shield" ],
+  "explicitMods" : [ "16% increased Rarity of Items found", "+10% to all Elemental Resistances", "+42% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

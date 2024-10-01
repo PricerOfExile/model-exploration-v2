@@ -1,0 +1,34 @@
+{
+  "id" : "154c991dc07f9e351b1e70c4fcf33d2ba0c6e0b76922257b7909f7c36127bf09",
+  "baseType" : "Stygian Vise",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "Has 1 Abyssal Socket" ],
+  "explicitMods" : [ "+26 to Strength", "+49 to Dexterity", "+1 to maximum Energy Shield", "+97 to maximum Life", "Regenerate 116.1 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "62", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "Regenerate 20 Life per second", "+36 to maximum Mana" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "A"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

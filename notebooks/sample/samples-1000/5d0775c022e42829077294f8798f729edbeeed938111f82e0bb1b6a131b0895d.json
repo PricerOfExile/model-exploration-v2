@@ -1,0 +1,31 @@
+{
+  "id" : "5d0775c022e42829077294f8798f729edbeeed938111f82e0bb1b6a131b0895d",
+  "baseType" : "Fangjaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 4 chaos",
+  "implicitMods" : [ "10% increased maximum Life" ],
+  "explicitMods" : [ "+6 to all Attributes", "Adds 6 to 11 Cold Damage to Attacks", "+8 to maximum Life", "24% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "49", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Slaughter" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

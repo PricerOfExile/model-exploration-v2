@@ -1,0 +1,31 @@
+{
+  "id" : "7b7d057c5bd8e4395b93442640d55f689b042a2d315d0a56c447280f07faa907",
+  "baseType" : "Three Rat Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "13% increased Attributes" ],
+  "explicitMods" : [ "+10% to Global Critical Strike Multiplier", "4% increased Armour", "28% increased Evasion Rating", "+74 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Survivalist" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

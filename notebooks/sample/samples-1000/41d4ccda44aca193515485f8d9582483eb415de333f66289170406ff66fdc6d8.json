@@ -1,0 +1,31 @@
+{
+  "id" : "41d4ccda44aca193515485f8d9582483eb415de333f66289170406ff66fdc6d8",
+  "baseType" : "Fangjaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "9% increased maximum Life" ],
+  "explicitMods" : [ "+25 to all Attributes", "Adds 6 to 11 Fire Damage to Attacks", "14% increased Evasion Rating", "22% increased Mana Regeneration Rate", "+6% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Assassination" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

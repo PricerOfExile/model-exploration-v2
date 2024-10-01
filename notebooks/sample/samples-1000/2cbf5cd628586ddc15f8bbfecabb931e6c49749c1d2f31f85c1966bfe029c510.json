@@ -1,0 +1,31 @@
+{
+  "id" : "2cbf5cd628586ddc15f8bbfecabb931e6c49749c1d2f31f85c1966bfe029c510",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+28 to maximum Life" ],
+  "explicitMods" : [ "+34 to Strength", "+15 to maximum Energy Shield", "+76 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

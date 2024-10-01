@@ -1,0 +1,31 @@
+{
+  "id" : "8a6ebeb7dd3e36669c181d223683b8a7152f3a18a15dada822457683ea1a60d3",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+28 to maximum Mana" ],
+  "explicitMods" : [ "3% increased Lightning Damage", "Regenerate 1.8 Life per second", "+46 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

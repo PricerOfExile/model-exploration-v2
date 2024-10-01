@@ -1,0 +1,31 @@
+{
+  "id" : "5f37ca6cb00fd3d2d27dcbc070af0f4e21d79061c521743feceba5ca6a847a90",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 divine",
+  "implicitMods" : [ "+22 to Strength and Dexterity" ],
+  "explicitMods" : [ "+54 to Dexterity", "+20% to Damage over Time Multiplier", "24% increased Evasion Rating", "+71 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Arsonist" ],
+  "craftedMods" : [ "12% increased Area of Effect", "15% increased Area Damage" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

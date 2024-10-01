@@ -1,0 +1,31 @@
+{
+  "id" : "436450e9455b20d641b3b72872b14bf36060268e1c3f9b77dd8dd84bf9133d92",
+  "baseType" : "Ashscale Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 30 chaos",
+  "implicitMods" : [ "25% increased Fire Damage" ],
+  "explicitMods" : [ "+30 to Dexterity", "Adds 2 to 34 Lightning Damage to Attacks", "Regenerate 40.5 Life per second", "+64 to maximum Mana", "+1 to Level of all Fire Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Stamina" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

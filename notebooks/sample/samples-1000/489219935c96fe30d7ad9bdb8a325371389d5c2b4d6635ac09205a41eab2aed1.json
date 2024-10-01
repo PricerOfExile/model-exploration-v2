@@ -1,0 +1,31 @@
+{
+  "id" : "489219935c96fe30d7ad9bdb8a325371389d5c2b4d6635ac09205a41eab2aed1",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "+14% to Cold and Lightning Resistances" ],
+  "explicitMods" : [ "22% increased Cold Damage", "6% increased Lightning Damage", "+4 to Evasion Rating" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Gain 6 Life per Enemy Killed" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

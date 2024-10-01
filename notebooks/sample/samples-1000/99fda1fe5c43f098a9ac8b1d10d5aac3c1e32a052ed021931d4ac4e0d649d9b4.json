@@ -1,0 +1,31 @@
+{
+  "id" : "99fda1fe5c43f098a9ac8b1d10d5aac3c1e32a052ed021931d4ac4e0d649d9b4",
+  "baseType" : "Cloth Belt",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "24% increased Stun and Block Recovery" ],
+  "explicitMods" : [ "+65 to maximum Mana", "+42% to Cold Resistance", "18% increased Flask Effect Duration" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "+50 to maximum Life" ],
+  "fracturedMods" : [ "29% increased Flask Charges gained" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

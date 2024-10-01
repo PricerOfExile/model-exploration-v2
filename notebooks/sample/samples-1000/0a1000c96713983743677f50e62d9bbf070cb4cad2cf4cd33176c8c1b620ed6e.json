@@ -1,0 +1,31 @@
+{
+  "id" : "0a1000c96713983743677f50e62d9bbf070cb4cad2cf4cd33176c8c1b620ed6e",
+  "baseType" : "Chain Belt",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 28 chaos",
+  "implicitMods" : [ "+19 to maximum Energy Shield" ],
+  "explicitMods" : [ "+247 to Armour", "Regenerate 79.8 Life per second", "8% increased Flask Mana Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

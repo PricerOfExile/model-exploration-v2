@@ -1,0 +1,38 @@
+{
+  "id" : "946c69c5d25c386506746dbf0690289cfa8709bad54304844d0c37f48328ec29",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 7 chaos",
+  "implicitMods" : [ "+12% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "+76 to Accuracy Rating", "16% increased Global Accuracy Rating", "+140 to Evasion Rating", "+11% to Fire Resistance", "Gain 20 Life per Enemy Hit with Attacks", "Adds 19 to 38 Fire Damage against Ignited Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

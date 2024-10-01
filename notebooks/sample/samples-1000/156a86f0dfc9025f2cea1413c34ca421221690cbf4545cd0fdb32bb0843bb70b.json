@@ -1,0 +1,31 @@
+{
+  "id" : "156a86f0dfc9025f2cea1413c34ca421221690cbf4545cd0fdb32bb0843bb70b",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "11% increased Rarity of Items found" ],
+  "explicitMods" : [ "+38 to Dexterity", "Adds 10 to 18 Cold Damage to Attacks", "Gain 3 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

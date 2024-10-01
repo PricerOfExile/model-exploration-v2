@@ -1,0 +1,31 @@
+{
+  "id" : "6c27f7412876368bc4869d82ba80a273d20f537847ec025c4c591cbb512d6eab",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+23 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "+17 to all Attributes", "Adds 11 to 22 Physical Damage to Attacks", "+164 to Accuracy Rating", "12% increased Rarity of Items found", "0.27% of Physical Attack Damage Leeched as Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Slaughter" ],
+  "craftedMods" : [ "+51 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

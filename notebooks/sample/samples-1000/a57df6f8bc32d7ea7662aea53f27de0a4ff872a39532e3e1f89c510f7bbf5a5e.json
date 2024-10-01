@@ -1,0 +1,38 @@
+{
+  "id" : "a57df6f8bc32d7ea7662aea53f27de0a4ff872a39532e3e1f89c510f7bbf5a5e",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "+23 to maximum Mana" ],
+  "explicitMods" : [ "+25 to Dexterity", "+133 to Evasion Rating", "+40 to maximum Mana", "+38% to Cold Resistance", "Adds 25 to 46 Cold Damage against Chilled or Frozen Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : true,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

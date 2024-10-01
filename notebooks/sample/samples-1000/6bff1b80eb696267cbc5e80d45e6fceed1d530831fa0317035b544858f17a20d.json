@@ -1,0 +1,31 @@
+{
+  "id" : "6bff1b80eb696267cbc5e80d45e6fceed1d530831fa0317035b544858f17a20d",
+  "baseType" : "Undying Flesh Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+1 to maximum number of Raised Zombies" ],
+  "explicitMods" : [ "+37 to Intelligence", "21% increased Armour", "17% increased Evasion Rating", "Gain 1 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Disemboweling" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

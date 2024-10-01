@@ -1,0 +1,31 @@
+{
+  "id" : "45ada54f39b0c62b4ef72b64337b27bd7bad70e48ccce6e079ebcdff46695212",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 28 chaos",
+  "implicitMods" : [ "+30 to Strength" ],
+  "explicitMods" : [ "Adds 1 to 2 Fire Damage to Attacks", "+35% to Global Critical Strike Multiplier", "+34% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

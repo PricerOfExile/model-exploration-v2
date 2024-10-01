@@ -1,0 +1,31 @@
+{
+  "id" : "9fbba0c83d634779bc6cc82050d6e169a317f5e6a749eb097cecce486f8ef73d",
+  "baseType" : "Spinefuse Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "9% increased Quantity of Items found" ],
+  "explicitMods" : [ "+28 to Dexterity", "19% increased Spell Damage", "+8% to Global Critical Strike Multiplier", "0.65% of Physical Attack Damage Leeched as Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Unstable Munitions" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

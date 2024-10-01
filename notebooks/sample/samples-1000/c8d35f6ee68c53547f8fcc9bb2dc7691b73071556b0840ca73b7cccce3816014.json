@@ -1,0 +1,31 @@
+{
+  "id" : "c8d35f6ee68c53547f8fcc9bb2dc7691b73071556b0840ca73b7cccce3816014",
+  "baseType" : "Spinefuse Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "9% increased Quantity of Items found" ],
+  "explicitMods" : [ "+25 to Intelligence", "+9% to Global Critical Strike Multiplier", "+30 to maximum Energy Shield", "+9% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates One With Nature" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

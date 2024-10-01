@@ -1,0 +1,31 @@
+{
+  "id" : "c5502182b014226a5978bdcb1e0f0787706828708718c439610a25b15308fe94",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+14 to all Attributes" ],
+  "explicitMods" : [ "+29 to Dexterity", "Adds 11 to 25 Fire Damage to Attacks", "0.69% of Physical Attack Damage Leeched as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+51 to maximum Energy Shield" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

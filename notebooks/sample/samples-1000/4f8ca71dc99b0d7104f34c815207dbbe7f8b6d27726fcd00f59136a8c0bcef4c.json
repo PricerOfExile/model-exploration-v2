@@ -1,0 +1,38 @@
+{
+  "id" : "4f8ca71dc99b0d7104f34c815207dbbe7f8b6d27726fcd00f59136a8c0bcef4c",
+  "baseType" : "Chain Belt",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+16 to maximum Energy Shield" ],
+  "explicitMods" : [ "+6 to maximum Energy Shield", "+34% to Cold Resistance", "24% increased Stun Duration on Enemies", "Reflects 8 Physical Damage to Melee Attackers", "13% increased Cooldown Recovery Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : true,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

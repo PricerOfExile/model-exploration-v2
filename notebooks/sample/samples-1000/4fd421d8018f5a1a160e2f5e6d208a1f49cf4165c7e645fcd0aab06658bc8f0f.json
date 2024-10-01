@@ -1,0 +1,31 @@
+{
+  "id" : "4fd421d8018f5a1a160e2f5e6d208a1f49cf4165c7e645fcd0aab06658bc8f0f",
+  "baseType" : "Rustic Sash",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "16% increased Global Physical Damage" ],
+  "explicitMods" : [ "+46 to maximum Energy Shield", "15% increased Stun and Block Recovery", "27% increased Flask Charges gained" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

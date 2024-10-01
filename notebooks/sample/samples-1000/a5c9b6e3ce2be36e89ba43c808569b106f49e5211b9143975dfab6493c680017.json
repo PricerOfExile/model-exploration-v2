@@ -1,0 +1,34 @@
+{
+  "id" : "a5c9b6e3ce2be36e89ba43c808569b106f49e5211b9143975dfab6493c680017",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 65,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 chaos BIG",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "Adds 5 to 12 Physical Damage to Attacks", "+34 to maximum Mana", "Gain 2 Life per Enemy Hit with Attacks", "Gain 13 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "32", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

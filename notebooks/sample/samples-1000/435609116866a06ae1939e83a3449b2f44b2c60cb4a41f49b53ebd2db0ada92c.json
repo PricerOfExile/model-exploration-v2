@@ -1,0 +1,31 @@
+{
+  "id" : "435609116866a06ae1939e83a3449b2f44b2c60cb4a41f49b53ebd2db0ada92c",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 79,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+26 to maximum Life" ],
+  "explicitMods" : [ "5% reduced Enemy Stun Threshold", "+93 to maximum Life", "Reflects 4 Physical Damage to Melee Attackers" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "51", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

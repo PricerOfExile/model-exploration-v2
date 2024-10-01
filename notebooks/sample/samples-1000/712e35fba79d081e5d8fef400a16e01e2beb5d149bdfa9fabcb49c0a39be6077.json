@@ -1,0 +1,31 @@
+{
+  "id" : "712e35fba79d081e5d8fef400a16e01e2beb5d149bdfa9fabcb49c0a39be6077",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 11 chaos",
+  "implicitMods" : [ "+16% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "+20 to Intelligence", "18% increased Cold Damage", "+40 to maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "6% increased Attack Speed" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

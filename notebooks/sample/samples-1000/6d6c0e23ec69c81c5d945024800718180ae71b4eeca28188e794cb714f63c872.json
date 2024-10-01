@@ -1,0 +1,31 @@
+{
+  "id" : "6d6c0e23ec69c81c5d945024800718180ae71b4eeca28188e794cb714f63c872",
+  "baseType" : "Diamond Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "24% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "+21 to Intelligence", "+44 to maximum Mana", "29% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

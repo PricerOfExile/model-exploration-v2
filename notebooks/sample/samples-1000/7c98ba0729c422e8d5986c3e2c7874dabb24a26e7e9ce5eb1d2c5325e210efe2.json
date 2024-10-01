@@ -1,0 +1,38 @@
+{
+  "id" : "7c98ba0729c422e8d5986c3e2c7874dabb24a26e7e9ce5eb1d2c5325e210efe2",
+  "baseType" : "Lapis Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+30 to Intelligence" ],
+  "explicitMods" : [ "25% increased Fire Damage", "Adds 12 to 27 Cold Damage to Attacks", "32% increased Armour", "5% increased maximum Energy Shield", "Anger has 41% increased Mana Reservation Efficiency" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : true,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

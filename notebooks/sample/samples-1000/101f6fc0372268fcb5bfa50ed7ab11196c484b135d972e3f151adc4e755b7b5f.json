@@ -1,0 +1,31 @@
+{
+  "id" : "101f6fc0372268fcb5bfa50ed7ab11196c484b135d972e3f151adc4e755b7b5f",
+  "baseType" : "Lapis Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 25 chaos",
+  "implicitMods" : [ "+27 to Intelligence" ],
+  "explicitMods" : [ "+40 to Intelligence", "11% increased Cold Damage", "29% increased Mana Regeneration Rate", "+1 to Level of all Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Hearty" ],
+  "craftedMods" : [ "+47 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "1e93add435565a79521a6591d55ea3fd983dee6bf3d794d4173a9e7160c5d23d",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+27 to maximum Mana" ],
+  "explicitMods" : [ "+3 to all Attributes", "+20 to Intelligence", "+13 to maximum Energy Shield", "12% increased Rarity of Items found", "+45% to Lightning Resistance", "0.23% of Physical Attack Damage Leeched as Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Your Lightning Storm Towers deal 25% increased Damage" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

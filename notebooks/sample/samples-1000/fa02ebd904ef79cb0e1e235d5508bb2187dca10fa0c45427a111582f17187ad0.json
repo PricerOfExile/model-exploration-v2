@@ -1,0 +1,31 @@
+{
+  "id" : "fa02ebd904ef79cb0e1e235d5508bb2187dca10fa0c45427a111582f17187ad0",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "9% increased Rarity of Items found" ],
+  "explicitMods" : [ "7% increased Cold Damage", "+123 to Evasion Rating", "14% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

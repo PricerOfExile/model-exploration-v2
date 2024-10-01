@@ -1,0 +1,31 @@
+{
+  "id" : "06adbd1d3b63c0541c2f60b9898830cffd9a69f165d4408d66df75d2fd448ea8",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 100 chaos",
+  "implicitMods" : [ "+16% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "+166 to Accuracy Rating", "+148 to Evasion Rating", "+22% to Fire Resistance", "+12% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "37% increased Elemental Damage with Attack Skills" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

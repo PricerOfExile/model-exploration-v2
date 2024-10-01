@@ -1,0 +1,31 @@
+{
+  "id" : "7b21345e6a79022bb916c4e5a0680b5faec3bb6026b1d79c7090f1f0157a6db9",
+  "baseType" : "Jade Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 80 chaos",
+  "implicitMods" : [ "+30 to Dexterity" ],
+  "explicitMods" : [ "+55 to Strength", "Adds 7 to 14 Physical Damage to Attacks", "26% increased Lightning Damage", "29% increased Armour", "Regenerate 56.6 Life per second", "23% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Arcing Blows" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

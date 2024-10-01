@@ -1,0 +1,34 @@
+{
+  "id" : "2a090a9b355bcb5a89ed2f140a63ee41b0238d87745f50a31f95985666f2e414",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "Regenerate 49.2 Life per second", "+48 to maximum Mana", "19% increased Rarity of Items found", "Gain 3 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

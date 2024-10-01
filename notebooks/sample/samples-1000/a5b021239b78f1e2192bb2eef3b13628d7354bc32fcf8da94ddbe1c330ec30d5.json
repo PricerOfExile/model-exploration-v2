@@ -1,0 +1,38 @@
+{
+  "id" : "a5b021239b78f1e2192bb2eef3b13628d7354bc32fcf8da94ddbe1c330ec30d5",
+  "baseType" : "Topaz Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 2 divine",
+  "implicitMods" : [ "+20% to Lightning Resistance" ],
+  "explicitMods" : [ "+14 to Strength", "+20 to Dexterity", "+19% to Fire Resistance", "Adds 18 to 40 Cold Damage against Chilled or Frozen Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : true,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

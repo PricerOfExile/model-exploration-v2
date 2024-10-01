@@ -1,0 +1,31 @@
+{
+  "id" : "dc594b424cda9e5959a4f5ec3ef34c40cb00bcc614a4716efed22a95267305e3",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 68,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 60 chaos",
+  "implicitMods" : [ "+26% to Fire Resistance" ],
+  "explicitMods" : [ "+16 to maximum Energy Shield", "+18 to maximum Mana", "+32% to Fire Resistance", "+39% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Your Meteor Towers create Burning Ground for 3 seconds on Hit" ],
+  "craftedMods" : [ "+53 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,38 @@
+{
+  "id" : "4a11285b6d241cb1a1e9c947b603cd82cf0b35b39fedfcb535e81a57088800a9",
+  "baseType" : "Gold Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "20% increased Rarity of Items found" ],
+  "explicitMods" : [ "+463 to Accuracy Rating", "66% increased Mana Regeneration Rate", "+12% to Cold Resistance", "6% increased Movement Speed", "1% increased Damage per 15 Intelligence" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : true,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

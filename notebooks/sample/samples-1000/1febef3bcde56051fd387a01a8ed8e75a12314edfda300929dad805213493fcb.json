@@ -1,0 +1,31 @@
+{
+  "id" : "1febef3bcde56051fd387a01a8ed8e75a12314edfda300929dad805213493fcb",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+27 to maximum Life" ],
+  "explicitMods" : [ "+38 to Intelligence", "+55 to Evasion Rating", "Regenerate 20.8 Life per second", "7% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "12% increased Cast Speed" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "89b1bd0922b7221e198b828e10c20b82270fd3a3364fda0977aa9be6e587a4fd",
+  "baseType" : "Paua Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 28 chaos",
+  "implicitMods" : [ "25% increased Mana Regeneration Rate" ],
+  "explicitMods" : [ "+206 to Accuracy Rating", "26% increased Armour", "+79 to maximum Life", "+47% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

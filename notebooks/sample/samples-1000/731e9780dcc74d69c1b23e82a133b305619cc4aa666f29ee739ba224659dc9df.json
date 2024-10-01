@@ -1,0 +1,31 @@
+{
+  "id" : "731e9780dcc74d69c1b23e82a133b305619cc4aa666f29ee739ba224659dc9df",
+  "baseType" : "Sapphire Ring",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+26% to Cold Resistance" ],
+  "explicitMods" : [ "7% increased Lightning Damage", "19% increased Global Accuracy Rating", "+12% to Lightning Resistance", "15% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "24", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

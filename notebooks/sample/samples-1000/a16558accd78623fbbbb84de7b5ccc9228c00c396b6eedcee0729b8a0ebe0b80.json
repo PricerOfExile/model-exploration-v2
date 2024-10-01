@@ -1,0 +1,34 @@
+{
+  "id" : "a16558accd78623fbbbb84de7b5ccc9228c00c396b6eedcee0729b8a0ebe0b80",
+  "baseType" : "Stygian Vise",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 6 chaos",
+  "implicitMods" : [ "Has 1 Abyssal Socket" ],
+  "explicitMods" : [ "13% reduced Enemy Stun Threshold", "+146 to Armour", "22% increased Stun Duration on Enemies", "Reflects 5 Physical Damage to Melee Attackers" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "45", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "A"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

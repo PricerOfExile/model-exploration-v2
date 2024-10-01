@@ -1,0 +1,31 @@
+{
+  "id" : "42fc1ed5aa67620c60cfbbca87c140a389370214678f873ae1323dc586104c28",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+13 to all Attributes" ],
+  "explicitMods" : [ "+2 to all Attributes", "+24 to Intelligence", "+11% to Global Critical Strike Multiplier" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "26", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "8% increased Spell Damage" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

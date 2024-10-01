@@ -1,0 +1,31 @@
+{
+  "id" : "01edfb620041c4501c18304b8888ffe96f16d9c5564dfbe2d8f416623f443e0c",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 6 chaos",
+  "implicitMods" : [ "+24 to maximum Life" ],
+  "explicitMods" : [ "Adds 6 to 10 Cold Damage to Attacks", "10% increased Mana Regeneration Rate", "16% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "42", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

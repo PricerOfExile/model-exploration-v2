@@ -1,0 +1,31 @@
+{
+  "id" : "7953403e876e8df5a061f1c20b74714ad251760c11526f9f0ba0a5ac3fe1b153",
+  "baseType" : "Hexclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "42% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "8% increased Lightning Damage", "+20 to maximum Energy Shield", "+44 to maximum Mana", "9% increased Rarity of Items found", "32% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Lava Lash" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

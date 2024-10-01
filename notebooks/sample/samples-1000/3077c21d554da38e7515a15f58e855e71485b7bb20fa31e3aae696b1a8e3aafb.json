@@ -1,0 +1,31 @@
+{
+  "id" : "3077c21d554da38e7515a15f58e855e71485b7bb20fa31e3aae696b1a8e3aafb",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "+12 to all Attributes" ],
+  "explicitMods" : [ "+23 to Dexterity", "+16% to Damage over Time Multiplier", "+1 to maximum Energy Shield", "+26 to maximum Mana", "+15% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Acrimony" ],
+  "craftedMods" : [ "+54 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

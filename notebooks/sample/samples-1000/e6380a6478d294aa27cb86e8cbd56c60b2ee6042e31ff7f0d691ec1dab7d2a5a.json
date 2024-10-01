@@ -1,0 +1,34 @@
+{
+  "id" : "e6380a6478d294aa27cb86e8cbd56c60b2ee6042e31ff7f0d691ec1dab7d2a5a",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+78 to maximum Mana", "+16% to all Elemental Resistances", "+8% to Cold Resistance", "12% of Damage taken Recouped as Life", "Non-Channelling Skills have -8 to Total Mana Cost" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

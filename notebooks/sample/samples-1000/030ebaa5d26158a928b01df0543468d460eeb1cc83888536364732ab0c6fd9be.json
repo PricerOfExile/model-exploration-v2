@@ -1,0 +1,31 @@
+{
+  "id" : "030ebaa5d26158a928b01df0543468d460eeb1cc83888536364732ab0c6fd9be",
+  "baseType" : "Rotfeather Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 22 chaos",
+  "implicitMods" : [ "26% increased Damage" ],
+  "explicitMods" : [ "20% increased Lightning Damage", "+25 to maximum Mana", "+7% to all Elemental Resistances", "+20% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Charisma" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "f4b9823ee59d7b62a11e23148edeac034722f50da55ce3d7ebe8b80778247b7e",
+  "baseType" : "Coral Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 65,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 chaos",
+  "implicitMods" : [ "Regenerate 3 Life per second" ],
+  "explicitMods" : [ "Adds 11 to 22 Cold Damage to Attacks", "+28 to maximum Life", "Gain 5 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "36", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Gain 2 Life per Enemy Hit with Attacks" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

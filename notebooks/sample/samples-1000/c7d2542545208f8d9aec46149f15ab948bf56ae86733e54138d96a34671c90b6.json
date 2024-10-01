@@ -1,0 +1,31 @@
+{
+  "id" : "c7d2542545208f8d9aec46149f15ab948bf56ae86733e54138d96a34671c90b6",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+18 to Strength and Intelligence" ],
+  "explicitMods" : [ "+26 to Dexterity", "13% increased Fire Damage", "+10% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

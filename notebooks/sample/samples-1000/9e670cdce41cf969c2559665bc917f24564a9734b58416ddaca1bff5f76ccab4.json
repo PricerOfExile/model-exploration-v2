@@ -1,0 +1,34 @@
+{
+  "id" : "9e670cdce41cf969c2559665bc917f24564a9734b58416ddaca1bff5f76ccab4",
+  "baseType" : "Lapis Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+27 to Intelligence" ],
+  "explicitMods" : [ "Adds 16 to 28 Cold Damage to Attacks", "18% increased Lightning Damage", "+35% to Global Critical Strike Multiplier", "+50 to maximum Energy Shield", "+88 to maximum Life", "Regenerate 74.8 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Caster Modifiers)",
+    "values" : [ [ "+14%", 1 ] ]
+  } ],
+  "enchantMods" : [ "Allocates Quickstep" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

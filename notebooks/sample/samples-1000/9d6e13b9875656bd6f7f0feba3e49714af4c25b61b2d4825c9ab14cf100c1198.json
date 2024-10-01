@@ -1,0 +1,31 @@
+{
+  "id" : "9d6e13b9875656bd6f7f0feba3e49714af4c25b61b2d4825c9ab14cf100c1198",
+  "baseType" : "Lapis Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+22 to Intelligence" ],
+  "explicitMods" : [ "+39 to Dexterity", "Adds 3 to 7 Physical Damage to Attacks", "+36% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "16% increased Cast Speed" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

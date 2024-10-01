@@ -1,0 +1,31 @@
+{
+  "id" : "04ffaeb4931cfb54681a5822ac9c4b9f147b210c298246b663dd3522f89c673a",
+  "baseType" : "Writhing Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "30% increased Attack Damage" ],
+  "explicitMods" : [ "37% increased Global Critical Strike Chance", "+35 to maximum Life", "+16% to all Elemental Resistances", "Gain 1 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Master of the Arena" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

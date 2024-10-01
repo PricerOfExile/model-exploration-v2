@@ -1,0 +1,31 @@
+{
+  "id" : "19824279251e0602ea8c5114e8c3af8a454e14cb93b2567de8d6daa03ae220a2",
+  "baseType" : "Three Rat Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 69,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "14% increased Attributes" ],
+  "explicitMods" : [ "Adds 11 to 19 Fire Damage to Attacks", "16% increased Cast Speed", "5% increased Armour", "+80 to maximum Life", "+11% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "43", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Destructive Apparatus" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

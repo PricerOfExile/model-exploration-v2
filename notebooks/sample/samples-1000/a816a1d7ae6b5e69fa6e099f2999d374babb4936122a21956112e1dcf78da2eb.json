@@ -1,0 +1,31 @@
+{
+  "id" : "a816a1d7ae6b5e69fa6e099f2999d374babb4936122a21956112e1dcf78da2eb",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+32 to maximum Life" ],
+  "explicitMods" : [ "12% reduced Enemy Stun Threshold", "+23 to maximum Mana", "+7% to Fire Resistance", "23% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

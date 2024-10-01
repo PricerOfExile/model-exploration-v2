@@ -1,0 +1,31 @@
+{
+  "id" : "91b22273decf78cb8098d669376a5b12a3abea8cbf775f97e48c175548c88dee",
+  "baseType" : "Hexclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "43% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "19% increased Fire Damage", "10% increased Evasion Rating", "+41 to maximum Mana", "+15% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Brand Equity" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

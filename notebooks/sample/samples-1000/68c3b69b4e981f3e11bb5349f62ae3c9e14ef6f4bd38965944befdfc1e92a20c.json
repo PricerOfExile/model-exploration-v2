@@ -1,0 +1,38 @@
+{
+  "id" : "68c3b69b4e981f3e11bb5349f62ae3c9e14ef6f4bd38965944befdfc1e92a20c",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+26 to Strength" ],
+  "explicitMods" : [ "+31 to maximum Energy Shield", "+28% to Lightning Resistance", "35% increased Projectile Attack Damage during any Flask Effect", "Remove Ignite and Burning when you use a Flask" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

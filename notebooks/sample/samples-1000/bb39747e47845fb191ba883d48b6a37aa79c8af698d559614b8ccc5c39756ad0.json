@@ -1,0 +1,31 @@
+{
+  "id" : "bb39747e47845fb191ba883d48b6a37aa79c8af698d559614b8ccc5c39756ad0",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+23 to Strength" ],
+  "explicitMods" : [ "+220 to Accuracy Rating", "8% increased Rarity of Items found", "+13% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+15% to all Elemental Resistances" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

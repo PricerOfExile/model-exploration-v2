@@ -1,0 +1,38 @@
+{
+  "id" : "4c92a9258823185991cd5d46cf71b2e0daa17d28cfe58b83803a74dea826f7b4",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "+36 to maximum Life" ],
+  "explicitMods" : [ "Regenerate 2.9 Life per second", "+51 to maximum Mana", "+17% to Lightning Resistance", "30% increased Flask Life Recovery rate", "Overwhelm 9% Physical Damage Reduction" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : true
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

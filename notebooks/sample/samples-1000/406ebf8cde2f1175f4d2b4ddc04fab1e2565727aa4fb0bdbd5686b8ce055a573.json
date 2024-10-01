@@ -1,0 +1,31 @@
+{
+  "id" : "406ebf8cde2f1175f4d2b4ddc04fab1e2565727aa4fb0bdbd5686b8ce055a573",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+21 to Strength" ],
+  "explicitMods" : [ "+55 to Strength", "18% increased Armour", "+51 to maximum Energy Shield", "25% increased Rarity of Items found", "+23% to Lightning Resistance", "+1 to Level of all Fire Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Arcane Will" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

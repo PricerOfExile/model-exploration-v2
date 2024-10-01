@@ -1,0 +1,31 @@
+{
+  "id" : "69a4bb349f8af0c83740b804d85cf533e9d1fac842e83011fa83fc530299ce13",
+  "baseType" : "Bone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 300 chaos",
+  "implicitMods" : [ "Minions have +11% to all Elemental Resistances" ],
+  "explicitMods" : [ "+12 to Strength", "Adds 6 to 9 Physical Damage to Attacks", "+15 to maximum Mana", "+8% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+52 to Dexterity" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

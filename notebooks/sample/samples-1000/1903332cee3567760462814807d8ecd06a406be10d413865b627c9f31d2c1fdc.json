@@ -1,0 +1,31 @@
+{
+  "id" : "1903332cee3567760462814807d8ecd06a406be10d413865b627c9f31d2c1fdc",
+  "baseType" : "Gold Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos 장막",
+  "implicitMods" : [ "18% increased Rarity of Items found" ],
+  "explicitMods" : [ "+34 to Strength", "18% increased Evasion Rating", "Gain 14 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

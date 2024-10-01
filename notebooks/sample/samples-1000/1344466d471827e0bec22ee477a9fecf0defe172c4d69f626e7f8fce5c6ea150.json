@@ -1,0 +1,31 @@
+{
+  "id" : "1344466d471827e0bec22ee477a9fecf0defe172c4d69f626e7f8fce5c6ea150",
+  "baseType" : "Studded Belt",
+  "rarity" : "Rare",
+  "ilvl" : 52,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "30% increased Stun Duration on Enemies" ],
+  "explicitMods" : [ "+22 to maximum Energy Shield", "Regenerate 31.3 Life per second", "21% increased Stun and Block Recovery" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+41 to Armour" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

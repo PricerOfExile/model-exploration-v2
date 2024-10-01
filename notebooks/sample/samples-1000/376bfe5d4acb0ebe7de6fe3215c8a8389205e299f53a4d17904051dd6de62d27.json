@@ -1,0 +1,31 @@
+{
+  "id" : "376bfe5d4acb0ebe7de6fe3215c8a8389205e299f53a4d17904051dd6de62d27",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 80 chaos",
+  "implicitMods" : [ "+19 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "+13 to Dexterity", "15% increased Cold Damage", "+416 to Accuracy Rating", "+1 to Level of all Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Charisma" ],
+  "craftedMods" : [ "+43 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

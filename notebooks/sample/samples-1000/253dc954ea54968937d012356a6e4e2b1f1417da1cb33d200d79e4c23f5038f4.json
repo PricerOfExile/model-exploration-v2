@@ -1,0 +1,31 @@
+{
+  "id" : "253dc954ea54968937d012356a6e4e2b1f1417da1cb33d200d79e4c23f5038f4",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+31 to maximum Life" ],
+  "explicitMods" : [ "+21 to Strength", "+15 to maximum Energy Shield", "21% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "24", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

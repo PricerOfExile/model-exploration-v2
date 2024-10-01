@@ -1,0 +1,31 @@
+{
+  "id" : "24c4ec7e97ab9b015094fe277a00a298cdfe8d609bd8ca33c21eeb59b57a1b6d",
+  "baseType" : "Studded Belt",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "20% increased Stun Duration on Enemies" ],
+  "explicitMods" : [ "12% reduced Enemy Stun Threshold", "+66 to Armour", "Regenerate 72.2 Life per second", "25% increased Flask Effect Duration" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

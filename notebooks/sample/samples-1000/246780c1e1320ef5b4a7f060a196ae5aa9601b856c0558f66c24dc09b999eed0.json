@@ -1,0 +1,34 @@
+{
+  "id" : "246780c1e1320ef5b4a7f060a196ae5aa9601b856c0558f66c24dc09b999eed0",
+  "baseType" : "Stygian Vise",
+  "rarity" : "Rare",
+  "ilvl" : 53,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 2 chaos",
+  "implicitMods" : [ "Has 1 Abyssal Socket" ],
+  "explicitMods" : [ "+10 to maximum Energy Shield", "+21% to Cold Resistance", "+26% to Lightning Resistance", "Reflects 1 Physical Damage to Melee Attackers" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "29", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "A"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

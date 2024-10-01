@@ -1,0 +1,34 @@
+{
+  "id" : "a72f53125bc349ca966525582eeadf0648715a391a30620ee6077655fc797936",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+1 to Level of Socketed Gems", "+14 to Strength", "Adds 8 to 13 Cold Damage to Attacks", "9% increased Lightning Damage" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "23", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

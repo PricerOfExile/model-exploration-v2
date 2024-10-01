@@ -1,0 +1,31 @@
+{
+  "id" : "eeae268d7ca6ff39535c02285de3ed68d9a053e678e20b62377d2af7e305b62a",
+  "baseType" : "Iron Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "Adds 1 to 4 Physical Damage to Attacks" ],
+  "explicitMods" : [ "+31 to Intelligence", "+27 to maximum Mana", "59% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

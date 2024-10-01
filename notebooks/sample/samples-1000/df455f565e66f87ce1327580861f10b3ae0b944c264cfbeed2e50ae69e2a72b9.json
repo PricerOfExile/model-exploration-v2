@@ -1,0 +1,31 @@
+{
+  "id" : "df455f565e66f87ce1327580861f10b3ae0b944c264cfbeed2e50ae69e2a72b9",
+  "baseType" : "Lapis Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+28 to Intelligence" ],
+  "explicitMods" : [ "Adds 1 to 2 Fire Damage to Attacks", "16% increased Global Critical Strike Chance", "+29 to maximum Energy Shield", "Gain 2 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

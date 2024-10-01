@@ -1,0 +1,31 @@
+{
+  "id" : "15e97d9f070ee630dae0eceff98e38eef13be97a8c855fc002654f627dbb9d50",
+  "baseType" : "Deadhand Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "23% increased Chaos Damage" ],
+  "explicitMods" : [ "+35 to Strength", "+146 to Accuracy Rating", "+53 to maximum Mana", "+41% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Tolerance" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

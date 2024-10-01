@@ -1,0 +1,31 @@
+{
+  "id" : "fb56e6ec4ab7fad3488ef8b627e827240c3ab5390911f5509deef5cf581eeb0d",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 20 chaos",
+  "implicitMods" : [ "+12% to Cold and Lightning Resistances" ],
+  "explicitMods" : [ "5% increased Cast Speed", "+59 to Evasion Rating", "+10 to maximum Energy Shield", "+54 to maximum Life", "+7% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "24", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

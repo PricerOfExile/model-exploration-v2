@@ -1,0 +1,34 @@
+{
+  "id" : "3fc2afd7f0ace76be1914d4919602d89ac4a12f8262bbd0bcd70719f96834b70",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 56,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "Adds 6 to 16 Cold Damage to Attacks", "12% increased Cast Speed", "+54 to maximum Life", "Gain 3 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "24", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

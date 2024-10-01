@@ -1,0 +1,34 @@
+{
+  "id" : "fcc777d0a8ae542e87ad452301139b8442e8bd83831caae881e61096d0a43f4b",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "14% increased Global Accuracy Rating", "+11 to maximum Energy Shield", "10% increased Mana Regeneration Rate", "+35% to Fire Resistance", "10% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "38", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

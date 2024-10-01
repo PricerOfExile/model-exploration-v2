@@ -1,0 +1,38 @@
+{
+  "id" : "bb2ba53e07589c176d57c43721d531c79fe01f393057a33fb51642afa90d9e19",
+  "baseType" : "Jade Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 10 chaos",
+  "implicitMods" : [ "+20 to Dexterity" ],
+  "explicitMods" : [ "11% increased Cast Speed", "38% increased Global Critical Strike Chance", "+17 to maximum Energy Shield", "+72 to maximum Mana", "20% increased Maximum total Life Recovery per second from Leech" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "60822994afd9bb2137df39e8088d7eb177782b512f7dd2c04a8d4c5a2dc31cd6",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 69,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "+30 to Strength" ],
+  "explicitMods" : [ "+18 to Strength", "+134 to Armour", "+32 to maximum Energy Shield", "+80 to maximum Life", "19% increased Stun and Block Recovery" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+37% to Cold Resistance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

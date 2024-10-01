@@ -1,0 +1,31 @@
+{
+  "id" : "373710dfbb7e4bc1b416f7e951a2717cfc6cb85c11e243a756e6394771502907",
+  "baseType" : "Sapphire Ring",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+20% to Cold Resistance" ],
+  "explicitMods" : [ "+6 to Evasion Rating", "11% increased Rarity of Items found", "+7% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "32% increased Elemental Damage with Attack Skills" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

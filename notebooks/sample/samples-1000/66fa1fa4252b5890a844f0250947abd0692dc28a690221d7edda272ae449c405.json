@@ -1,0 +1,31 @@
+{
+  "id" : "66fa1fa4252b5890a844f0250947abd0692dc28a690221d7edda272ae449c405",
+  "baseType" : "Deadhand Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "21% increased Chaos Damage" ],
+  "explicitMods" : [ "+33 to Strength", "8% increased Spell Damage", "Adds 15 to 26 Cold Damage to Attacks", "32% increased Global Critical Strike Chance", "+38 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "46", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Unnatural Calm" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

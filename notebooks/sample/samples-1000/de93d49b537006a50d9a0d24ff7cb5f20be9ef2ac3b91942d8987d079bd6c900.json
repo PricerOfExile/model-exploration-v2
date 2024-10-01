@@ -1,0 +1,31 @@
+{
+  "id" : "de93d49b537006a50d9a0d24ff7cb5f20be9ef2ac3b91942d8987d079bd6c900",
+  "baseType" : "Hexclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 76,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 40 chaos",
+  "implicitMods" : [ "49% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "Adds 3 to 7 Fire Damage to Attacks", "30% increased Armour", "+59 to maximum Mana", "+20% to Fire Resistance", "+19% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Hematophagy" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

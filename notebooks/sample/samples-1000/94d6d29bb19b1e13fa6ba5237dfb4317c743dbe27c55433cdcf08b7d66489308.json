@@ -1,0 +1,34 @@
+{
+  "id" : "94d6d29bb19b1e13fa6ba5237dfb4317c743dbe27c55433cdcf08b7d66489308",
+  "baseType" : "Black Maw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 64,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 12 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+24 to Dexterity", "+24 to Intelligence", "Adds 7 to 18 Physical Damage to Attacks", "Adds 7 to 13 Fire Damage to Attacks", "11% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "41", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

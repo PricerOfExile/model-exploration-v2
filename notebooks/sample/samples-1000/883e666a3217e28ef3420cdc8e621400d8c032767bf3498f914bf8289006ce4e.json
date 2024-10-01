@@ -1,0 +1,31 @@
+{
+  "id" : "883e666a3217e28ef3420cdc8e621400d8c032767bf3498f914bf8289006ce4e",
+  "baseType" : "Horned Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "Projectiles Pierce 2 additional Targets" ],
+  "explicitMods" : [ "+17 to Dexterity", "9% increased Lightning Damage", "7% increased Cast Speed", "7% increased maximum Energy Shield", "+17 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "18", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Skittering Runes" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

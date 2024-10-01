@@ -1,0 +1,31 @@
+{
+  "id" : "7e132dbbc42c4a04024529b45870a15687b7497cd8c38649e750e184cd8217c1",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+20% to Chaos Resistance" ],
+  "explicitMods" : [ "+62 to maximum Life", "Regenerate 17.4 Life per second", "+21 to maximum Mana", "+6% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "30", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

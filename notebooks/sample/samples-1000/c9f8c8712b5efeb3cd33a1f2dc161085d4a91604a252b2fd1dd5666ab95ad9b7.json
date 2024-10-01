@@ -1,0 +1,31 @@
+{
+  "id" : "c9f8c8712b5efeb3cd33a1f2dc161085d4a91604a252b2fd1dd5666ab95ad9b7",
+  "baseType" : "Iron Ring",
+  "rarity" : "Magic",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "Adds 1 to 4 Physical Damage to Attacks" ],
+  "explicitMods" : null,
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+75 to maximum Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

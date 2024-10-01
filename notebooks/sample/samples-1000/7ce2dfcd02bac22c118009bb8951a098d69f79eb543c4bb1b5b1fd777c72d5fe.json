@@ -1,0 +1,31 @@
+{
+  "id" : "7ce2dfcd02bac22c118009bb8951a098d69f79eb543c4bb1b5b1fd777c72d5fe",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Magic",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+17 to Strength and Dexterity" ],
+  "explicitMods" : null,
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "30", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "16% increased Spell Damage" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

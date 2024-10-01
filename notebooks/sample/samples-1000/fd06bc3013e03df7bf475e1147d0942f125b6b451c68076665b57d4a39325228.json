@@ -1,0 +1,31 @@
+{
+  "id" : "fd06bc3013e03df7bf475e1147d0942f125b6b451c68076665b57d4a39325228",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 67,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 23 chaos",
+  "implicitMods" : [ "+35 to Strength" ],
+  "explicitMods" : [ "+25 to Strength", "+95 to Armour", "+44 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "8% increased Flask Charges gained" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

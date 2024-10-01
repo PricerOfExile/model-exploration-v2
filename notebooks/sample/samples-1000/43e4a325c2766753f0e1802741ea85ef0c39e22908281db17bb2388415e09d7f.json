@@ -1,0 +1,31 @@
+{
+  "id" : "43e4a325c2766753f0e1802741ea85ef0c39e22908281db17bb2388415e09d7f",
+  "baseType" : "Iron Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "Adds 1 to 4 Physical Damage to Attacks" ],
+  "explicitMods" : [ "Adds 6 to 13 Fire Damage to Attacks", "10% increased Lightning Damage", "+68 to maximum Life", "+20% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

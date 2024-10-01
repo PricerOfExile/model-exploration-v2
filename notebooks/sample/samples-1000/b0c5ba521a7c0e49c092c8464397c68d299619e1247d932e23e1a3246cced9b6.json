@@ -1,0 +1,31 @@
+{
+  "id" : "b0c5ba521a7c0e49c092c8464397c68d299619e1247d932e23e1a3246cced9b6",
+  "baseType" : "Gold Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "20% increased Rarity of Items found" ],
+  "explicitMods" : [ "+40 to Dexterity", "+38% to Global Critical Strike Multiplier", "34% increased Evasion Rating", "+36 to maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Whispers of Doom" ],
+  "craftedMods" : [ "27% increased Global Critical Strike Chance" ],
+  "fracturedMods" : [ "+84 to maximum Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

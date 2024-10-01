@@ -1,0 +1,31 @@
+{
+  "id" : "ea9274380381cae2ce4a5b071deb52a9c9964bbb160ea77a81c400b5ac1e55c4",
+  "baseType" : "Iron Ring",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "Adds 1 to 4 Physical Damage to Attacks" ],
+  "explicitMods" : [ "+14 to Intelligence", "Adds 5 to 13 Fire Damage to Attacks", "18% increased Lightning Damage", "10% increased Global Accuracy Rating", "5% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "19c974b04ca58c0132e7c3e66ec8947dcd5efd3c9d99b6b6aa2eb7ecec35b6f8",
+  "baseType" : "Rustic Sash",
+  "rarity" : "Rare",
+  "ilvl" : 62,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "21% increased Global Physical Damage" ],
+  "explicitMods" : [ "+19 to Strength", "14% reduced Enemy Stun Threshold", "+5 to Armour" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "46", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "17% increased Stun and Block Recovery" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

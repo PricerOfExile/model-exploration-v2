@@ -1,0 +1,34 @@
+{
+  "id" : "a394bd7065a843f527c49291be4b27072151927425ca2b340d1c097d7dcca8d6",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos 1",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+37 to Intelligence", "Adds 7 to 10 Cold Damage to Attacks", "Regenerate 35.4 Life per second", "+48 to maximum Mana", "+13% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

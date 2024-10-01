@@ -1,0 +1,31 @@
+{
+  "id" : "899a7fce51df2167e8d417dbafd34800512907c658a2ea6ce34df14daeeba000",
+  "baseType" : "Horned Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 2 divine",
+  "implicitMods" : [ "Projectiles Pierce 2 additional Targets" ],
+  "explicitMods" : [ "+28 to Strength", "+49 to Dexterity", "+85 to maximum Life", "Gain 1 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Longshot" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

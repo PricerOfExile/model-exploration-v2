@@ -1,0 +1,31 @@
+{
+  "id" : "63023448e495fdabba62e5052913ed0bf8be721c30354c71a3bc58e42f5deb60",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+16 to Strength and Dexterity" ],
+  "explicitMods" : [ "+19 to all Attributes", "+18 to Strength", "+3 to maximum Energy Shield", "Regenerate 26 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "9ac0ec49dc3f03e0861b29a984dbfd3428ce8d41f1cf56191fa3cfff9dc61907",
+  "baseType" : "Sapphire Ring",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "+29% to Cold Resistance" ],
+  "explicitMods" : [ "Adds 3 to 7 Fire Damage to Attacks", "5% increased Cast Speed", "+17 to maximum Energy Shield", "+13% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "38", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

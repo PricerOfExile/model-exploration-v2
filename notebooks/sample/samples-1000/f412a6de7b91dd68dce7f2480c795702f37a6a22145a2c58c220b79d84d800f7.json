@@ -1,0 +1,31 @@
+{
+  "id" : "f412a6de7b91dd68dce7f2480c795702f37a6a22145a2c58c220b79d84d800f7",
+  "baseType" : "Avian Twins Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "50% of Cold Damage from Hits taken as Lightning Damage" ],
+  "explicitMods" : [ "+18 to Strength", "+9 to Intelligence", "30% increased Armour", "+24 to maximum Energy Shield", "+23% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Ribcage Crusher" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

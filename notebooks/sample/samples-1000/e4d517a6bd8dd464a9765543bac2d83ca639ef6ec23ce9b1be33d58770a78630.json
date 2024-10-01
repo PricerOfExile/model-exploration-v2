@@ -1,0 +1,31 @@
+{
+  "id" : "e4d517a6bd8dd464a9765543bac2d83ca639ef6ec23ce9b1be33d58770a78630",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "+23 to maximum Life" ],
+  "explicitMods" : [ "Adds 12 to 21 Fire Damage to Attacks", "13% increased Cast Speed", "Regenerate 24.2 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+51 to Dexterity" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

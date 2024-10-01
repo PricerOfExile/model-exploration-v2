@@ -1,0 +1,38 @@
+{
+  "id" : "31fecb59a0c5a9765423a62ffa8f26f45858ccf381dae2e0a1161bddfafb0480",
+  "baseType" : "Paua Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 31 chaos",
+  "implicitMods" : [ "21% increased Mana Regeneration Rate" ],
+  "explicitMods" : [ "+12% to Physical Damage over Time Multiplier", "Adds 14 to 29 Cold Damage to Attacks", "24% increased Global Critical Strike Chance", "+4 to maximum Energy Shield", "+23 to maximum Life", "Regenerate 30.6 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : true
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

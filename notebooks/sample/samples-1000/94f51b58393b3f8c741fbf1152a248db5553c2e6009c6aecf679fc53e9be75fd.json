@@ -1,0 +1,31 @@
+{
+  "id" : "94f51b58393b3f8c741fbf1152a248db5553c2e6009c6aecf679fc53e9be75fd",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+24 to Strength and Dexterity" ],
+  "explicitMods" : [ "+41 to Intelligence", "34% increased Armour", "+13 to maximum Energy Shield", "+41% to Cold Resistance", "+1 to Level of all Cold Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Counterweight" ],
+  "craftedMods" : [ "+16% to Fire and Lightning Resistances" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

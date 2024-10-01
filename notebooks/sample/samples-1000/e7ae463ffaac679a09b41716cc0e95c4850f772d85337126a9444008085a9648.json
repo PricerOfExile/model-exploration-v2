@@ -1,0 +1,31 @@
+{
+  "id" : "e7ae463ffaac679a09b41716cc0e95c4850f772d85337126a9444008085a9648",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "12% increased Rarity of Items found" ],
+  "explicitMods" : [ "Adds 5 to 12 Physical Damage to Attacks", "9% increased Cold Damage", "Regenerate 12.5 Life per second", "34% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

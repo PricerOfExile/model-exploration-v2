@@ -1,0 +1,31 @@
+{
+  "id" : "f7bd12edf8f14d9cedd27742599f5997567a350ab5d8795912b1460ac754d615",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+39 to maximum Life" ],
+  "explicitMods" : [ "+22 to maximum Energy Shield", "Regenerate 50.9 Life per second", "+56 to maximum Mana", "+16% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

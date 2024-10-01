@@ -1,0 +1,34 @@
+{
+  "id" : "d5ed8b308c6b187a6cbbf7ea9ce1d0280625fb39ef3616734dec1c04f3c8eb51",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 69,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+20 to Strength", "Adds 5 to 13 Fire Damage to Attacks", "+54 to Accuracy Rating", "+21% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "20", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

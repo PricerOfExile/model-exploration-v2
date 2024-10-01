@@ -1,0 +1,31 @@
+{
+  "id" : "85e13db4c0804bf1097afa1a7b7dfc59d1959518650ad590baa2d111c609d8d9",
+  "baseType" : "Jade Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+30 to Dexterity" ],
+  "explicitMods" : [ "10% increased Lightning Damage", "+3 to maximum Life", "+7% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+38% to Global Critical Strike Multiplier" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

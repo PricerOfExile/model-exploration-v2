@@ -1,0 +1,31 @@
+{
+  "id" : "064f579e5c4ed4905d5b5c8e438fbc9bdbcb259ea9c06d254ef1969495debe6e",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1.5 divine",
+  "implicitMods" : [ "+25 to Strength" ],
+  "explicitMods" : [ "+43 to maximum Energy Shield", "+1 to Level of all Fire Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+19% to Damage over Time Multiplier" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

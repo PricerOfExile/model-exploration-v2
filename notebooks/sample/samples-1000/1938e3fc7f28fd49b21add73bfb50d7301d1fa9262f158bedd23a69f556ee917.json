@@ -1,0 +1,31 @@
+{
+  "id" : "1938e3fc7f28fd49b21add73bfb50d7301d1fa9262f158bedd23a69f556ee917",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+40 to maximum Life" ],
+  "explicitMods" : [ "+11 to maximum Life", "Regenerate 29.8 Life per second", "31% increased Stun Duration on Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "46", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

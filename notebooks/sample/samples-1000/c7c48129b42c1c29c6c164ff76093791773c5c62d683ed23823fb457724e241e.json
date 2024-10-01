@@ -1,0 +1,31 @@
+{
+  "id" : "c7c48129b42c1c29c6c164ff76093791773c5c62d683ed23823fb457724e241e",
+  "baseType" : "Spinefuse Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "8% increased Quantity of Items found" ],
+  "explicitMods" : [ "+22 to all Attributes", "+27 to Dexterity", "Adds 8 to 13 Physical Damage to Attacks", "12% increased maximum Energy Shield", "+20 to maximum Mana", "+24% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Utmost Intellect" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

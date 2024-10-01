@@ -1,0 +1,31 @@
+{
+  "id" : "c0bed6e92ef86da575c6a2d6ee89d847506d05b689c3d93f7f4d4e91479d32d9",
+  "baseType" : "Coral Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "Regenerate 3.7 Life per second" ],
+  "explicitMods" : [ "+38% to Global Critical Strike Multiplier", "+51 to maximum Energy Shield", "17% increased maximum Energy Shield", "+64 to maximum Mana", "+16% to all Elemental Resistances", "+45% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Beef" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

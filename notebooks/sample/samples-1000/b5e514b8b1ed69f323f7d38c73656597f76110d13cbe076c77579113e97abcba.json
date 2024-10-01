@@ -1,0 +1,31 @@
+{
+  "id" : "b5e514b8b1ed69f323f7d38c73656597f76110d13cbe076c77579113e97abcba",
+  "baseType" : "Bonespire Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "20% increased maximum Mana" ],
+  "explicitMods" : [ "+31 to Intelligence", "20% increased Fire Damage", "Adds 5 to 12 Cold Damage to Attacks", "8% increased Lightning Damage", "2% increased maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Sanctity" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

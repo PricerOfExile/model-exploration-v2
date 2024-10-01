@@ -1,0 +1,34 @@
+{
+  "id" : "ec806e047cdea1ba53fe89196d4b6ae0aec5a865e19bd2637f88d5e170b90414",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 68,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 20 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+33 to Dexterity", "+41 to Intelligence", "+65 to Evasion Rating", "+47 to maximum Mana", "Gain 9 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

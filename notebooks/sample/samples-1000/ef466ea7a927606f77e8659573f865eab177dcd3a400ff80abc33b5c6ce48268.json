@@ -1,0 +1,38 @@
+{
+  "id" : "ef466ea7a927606f77e8659573f865eab177dcd3a400ff80abc33b5c6ce48268",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "+20% to Chaos Resistance" ],
+  "explicitMods" : [ "+16 to Intelligence", "+130 to Evasion Rating", "Regenerate 46.3 Life per second", "+9% to Cold Resistance", "You and your Minions take 48% reduced Reflected Elemental Damage" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : true,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,38 @@
+{
+  "id" : "ca5007fb27ffb9b5cfb218713e85a9f185b178a054270f67a224c826f6fcfdcb",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 10 chaos",
+  "implicitMods" : [ "+12% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "19% increased Global Critical Strike Chance", "+107 to Evasion Rating", "9% increased Rarity of Items found", "+25% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : true,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

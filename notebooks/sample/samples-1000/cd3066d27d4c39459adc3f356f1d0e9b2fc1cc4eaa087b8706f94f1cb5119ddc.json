@@ -1,0 +1,31 @@
+{
+  "id" : "cd3066d27d4c39459adc3f356f1d0e9b2fc1cc4eaa087b8706f94f1cb5119ddc",
+  "baseType" : "Rustic Sash",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "20% increased Global Physical Damage" ],
+  "explicitMods" : [ "+24 to Strength", "+2 to maximum Energy Shield", "Regenerate 31.6 Life per second", "+47% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

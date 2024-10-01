@@ -1,0 +1,31 @@
+{
+  "id" : "13ec44fb202b8aecd4342426faf8f8e658db1ecb3fbe283a44f3885a785b0ea6",
+  "baseType" : "Cloth Belt",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "17% increased Stun and Block Recovery" ],
+  "explicitMods" : [ "+32 to Strength", "+339 to Armour", "+34 to maximum Mana", "+27% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

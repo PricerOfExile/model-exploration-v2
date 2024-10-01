@@ -1,0 +1,31 @@
+{
+  "id" : "5eaadaada50f26f5e7f8f9c674783cf308406bc0c6d59f33d1d8f4e1433b9022",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Magic",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+12% to Cold and Lightning Resistances" ],
+  "explicitMods" : [ "+25 to Strength" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "26", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+9 to maximum Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "ea2952204e42170d0be34b6cf7e22fefee54ad0c51317c5f701d8d51afb80037",
+  "baseType" : "Longtooth Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 79,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "5% additional Physical Damage Reduction" ],
+  "explicitMods" : [ "+15 to all Attributes", "+14 to Intelligence", "25% increased Armour", "+10 to maximum Energy Shield", "+30% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Resourcefulness" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

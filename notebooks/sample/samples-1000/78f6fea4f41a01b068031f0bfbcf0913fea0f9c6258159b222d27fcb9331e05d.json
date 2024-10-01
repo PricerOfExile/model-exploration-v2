@@ -1,0 +1,31 @@
+{
+  "id" : "78f6fea4f41a01b068031f0bfbcf0913fea0f9c6258159b222d27fcb9331e05d",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "13% increased Rarity of Items found" ],
+  "explicitMods" : [ "+8 to Strength", "Adds 5 to 10 Physical Damage to Attacks", "Adds 6 to 12 Fire Damage to Attacks", "14% increased Global Accuracy Rating", "10% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "22", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

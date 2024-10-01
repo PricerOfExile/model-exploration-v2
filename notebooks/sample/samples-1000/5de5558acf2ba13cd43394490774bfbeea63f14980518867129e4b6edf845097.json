@@ -1,0 +1,31 @@
+{
+  "id" : "5de5558acf2ba13cd43394490774bfbeea63f14980518867129e4b6edf845097",
+  "baseType" : "Bone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "Minions have +15% to all Elemental Resistances" ],
+  "explicitMods" : [ "+13 to Intelligence", "+134 to Accuracy Rating", "+40 to maximum Life", "+12% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "25", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Your Seismic Towers have 25% increased Range" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

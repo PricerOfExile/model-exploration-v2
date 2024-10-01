@@ -1,0 +1,31 @@
+{
+  "id" : "4e321dbcb10b9522f4196b56d7f7b8bf415e590f1eb896b3c3bab9a0a6c6db1a",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+26 to maximum Life" ],
+  "explicitMods" : [ "+23 to Intelligence", "+8 to Evasion Rating", "11% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "26", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

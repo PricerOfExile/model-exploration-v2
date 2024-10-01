@@ -1,0 +1,31 @@
+{
+  "id" : "f1c99b5439c7a2e43a47ed8020d0dc3bde07d97ce5e0cc47f89e40cd0b6d6a5d",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 45,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 10 chaos",
+  "implicitMods" : [ "+28 to maximum Mana" ],
+  "explicitMods" : [ "+10 to Dexterity", "11% increased Cast Speed", "+22 to maximum Energy Shield", "22% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+74 to maximum Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "57557b6aca8681bc594d24ad7e0cd8b7c4b35d0e226c0e8679a9cfebef898a0c",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 4 chaos",
+  "implicitMods" : [ "+10 to all Attributes" ],
+  "explicitMods" : [ "Adds 2 to 41 Lightning Damage to Attacks", "+4 to maximum Energy Shield", "22% increased maximum Energy Shield", "35% increased Mana Regeneration Rate", "+44% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "10% increased Rarity of Items found" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

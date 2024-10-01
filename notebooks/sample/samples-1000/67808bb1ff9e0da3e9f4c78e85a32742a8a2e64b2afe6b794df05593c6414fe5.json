@@ -1,0 +1,38 @@
+{
+  "id" : "67808bb1ff9e0da3e9f4c78e85a32742a8a2e64b2afe6b794df05593c6414fe5",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+37 to maximum Life" ],
+  "explicitMods" : [ "+405 to Armour", "Regenerate 4.9 Life per second", "+8% to Cold Resistance", "13% increased Stun and Block Recovery", "30% increased Damage with Hits against Chilled Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "66", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : true,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

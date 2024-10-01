@@ -1,0 +1,31 @@
+{
+  "id" : "ff6b148e1557e1003727b98242fd00521020e6c26b612e12ac25d5423249b571",
+  "baseType" : "Avian Twins Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "50% of Fire Damage from Hits taken as Cold Damage" ],
+  "explicitMods" : [ "+26 to all Attributes", "+37% to Global Critical Strike Multiplier", "+7 to maximum Energy Shield", "+29% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Serpent Stance" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,34 @@
+{
+  "id" : "bd3738c11906f620277c423fabddf8b150527162048fb044862b0a1fe045a3b2",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 57,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "22% increased Fire Damage", "Adds 1 to 2 Fire Damage to Attacks", "17% increased Lightning Damage", "+16 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

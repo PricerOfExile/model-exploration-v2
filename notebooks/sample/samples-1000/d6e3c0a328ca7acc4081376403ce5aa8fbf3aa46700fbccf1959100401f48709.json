@@ -1,0 +1,31 @@
+{
+  "id" : "d6e3c0a328ca7acc4081376403ce5aa8fbf3aa46700fbccf1959100401f48709",
+  "baseType" : "Breakrib Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "26% increased Global Physical Damage" ],
+  "explicitMods" : [ "Adds 10 to 16 Physical Damage to Attacks", "Adds 10 to 16 Cold Damage to Attacks", "30% increased Mana Regeneration Rate", "+10% to all Elemental Resistances", "+14% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "41", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Courage" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

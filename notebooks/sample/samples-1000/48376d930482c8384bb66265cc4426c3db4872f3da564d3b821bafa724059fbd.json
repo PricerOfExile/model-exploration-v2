@@ -1,0 +1,31 @@
+{
+  "id" : "48376d930482c8384bb66265cc4426c3db4872f3da564d3b821bafa724059fbd",
+  "baseType" : "Diamond Ring",
+  "rarity" : "Rare",
+  "ilvl" : 59,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "24% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "18% increased Rarity of Items found", "+20% to Cold Resistance", "20% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "42", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "13% increased Fire Damage" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

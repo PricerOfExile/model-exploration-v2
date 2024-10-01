@@ -1,0 +1,31 @@
+{
+  "id" : "ed76b3b69abb2b38019baff3ed456f8908d239804826d347f6941fb3b2be5c77",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Magic",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+34 to Strength" ],
+  "explicitMods" : [ "Flasks applied to you have 8% increased Effect" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "15% reduced Flask Charges used" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

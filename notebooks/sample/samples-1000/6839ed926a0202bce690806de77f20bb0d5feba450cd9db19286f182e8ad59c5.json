@@ -1,0 +1,31 @@
+{
+  "id" : "6839ed926a0202bce690806de77f20bb0d5feba450cd9db19286f182e8ad59c5",
+  "baseType" : "Cloth Belt",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 11 chaos",
+  "implicitMods" : [ "15% increased Stun and Block Recovery" ],
+  "explicitMods" : [ "+57 to maximum Life", "+5% to Chaos Resistance", "22% increased Flask Life Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

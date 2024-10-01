@@ -1,0 +1,31 @@
+{
+  "id" : "780634aa42aecac06268dde6537235a260745ba8cac36c524ed17e15bbdda894",
+  "baseType" : "Wereclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 chaos",
+  "implicitMods" : [ "+36% to Global Critical Strike Multiplier" ],
+  "explicitMods" : [ "+14% to Global Critical Strike Multiplier", "6% increased Evasion Rating", "48% increased Mana Regeneration Rate", "+27% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Last Rites" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

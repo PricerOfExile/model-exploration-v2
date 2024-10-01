@@ -1,0 +1,31 @@
+{
+  "id" : "ed04ca2547c811d7eb0449d5e64f56bc3e2266f3648b8a0c0b61d83679350670",
+  "baseType" : "Chain Belt",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+9 to maximum Energy Shield" ],
+  "explicitMods" : [ "Regenerate 62.4 Life per second", "27% increased Stun Duration on Enemies", "4% increased Flask Effect Duration" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

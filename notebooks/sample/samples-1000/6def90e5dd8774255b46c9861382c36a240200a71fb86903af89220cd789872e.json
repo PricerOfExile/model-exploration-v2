@@ -1,0 +1,31 @@
+{
+  "id" : "6def90e5dd8774255b46c9861382c36a240200a71fb86903af89220cd789872e",
+  "baseType" : "Breakrib Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "29% increased Global Physical Damage" ],
+  "explicitMods" : [ "+25 to Strength", "+38 to Dexterity", "Adds 13 to 26 Physical Damage to Attacks", "6% increased maximum Energy Shield", "+70 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Assassination" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

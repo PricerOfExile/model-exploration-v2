@@ -1,0 +1,31 @@
+{
+  "id" : "2f1fd8a6e45d44153a3e06baea4cd10f13c800616ade737415f431f6a17191d4",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 79,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+24 to Strength and Intelligence" ],
+  "explicitMods" : [ "15% increased Spell Damage", "18% increased Evasion Rating", "+28% to Fire Resistance", "+45% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Potency of Will" ],
+  "craftedMods" : [ "+13 to all Attributes" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,38 @@
+{
+  "id" : "c79c83c74977d20c52f19fee66a78cc8738b6641e542f933a37441f1b4f3d4b1",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "+20% to Chaos Resistance" ],
+  "explicitMods" : [ "Adds 8 to 13 Cold Damage to Attacks", "Adds 2 to 40 Lightning Damage to Attacks", "+294 to Accuracy Rating", "+39 to maximum Energy Shield", "+35% to Lightning Resistance", "Curse Enemies with Flammability on Hit" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : true,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

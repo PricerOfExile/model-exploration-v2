@@ -1,0 +1,31 @@
+{
+  "id" : "e185d389a8204c16e4aa54e5bdf09cc31cbd3abd19053249d81c0c47d85e68da",
+  "baseType" : "Chrysalis Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "27% increased Spell Damage" ],
+  "explicitMods" : [ "13% increased Spell Damage", "+38% to Global Critical Strike Multiplier", "+73 to maximum Life", "+53 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Acrimony" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

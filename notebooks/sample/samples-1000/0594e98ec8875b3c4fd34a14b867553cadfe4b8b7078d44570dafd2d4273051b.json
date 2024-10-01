@@ -1,0 +1,31 @@
+{
+  "id" : "0594e98ec8875b3c4fd34a14b867553cadfe4b8b7078d44570dafd2d4273051b",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 22 chaos",
+  "implicitMods" : [ "+19 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "Adds 4 to 10 Physical Damage to Attacks", "14% increased Evasion Rating", "+14% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "47", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+32% to Global Critical Strike Multiplier" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

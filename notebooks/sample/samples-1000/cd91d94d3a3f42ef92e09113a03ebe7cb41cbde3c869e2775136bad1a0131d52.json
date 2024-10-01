@@ -1,0 +1,31 @@
+{
+  "id" : "cd91d94d3a3f42ef92e09113a03ebe7cb41cbde3c869e2775136bad1a0131d52",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 68,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+27 to Strength" ],
+  "explicitMods" : [ "Adds 16 to 27 Cold Damage to Attacks", "2% increased maximum Energy Shield", "0.76% of Physical Attack Damage Leeched as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "19% increased Rarity of Items found" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

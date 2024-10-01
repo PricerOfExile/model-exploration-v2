@@ -1,0 +1,31 @@
+{
+  "id" : "4c21bd50f4fe74d3f3ad71db2bd2489e0fa91357c6cab9b1cc28bb60520d90d0",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "+18 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "+16% to all Elemental Resistances", "+38% to Cold Resistance", "+19% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+1 to Level of all Chaos Skill Gems" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,38 @@
+{
+  "id" : "e9052547e265ee52bcad03a4d9bbee6827cb6e803cf9251790e2fc8a7c9a1a9f",
+  "baseType" : "Rustic Sash",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "24% increased Global Physical Damage" ],
+  "explicitMods" : [ "+54 to maximum Life", "+14% to Lightning Resistance", "36% increased Flask Mana Recovery rate", "+22% to Chaos Resistance during any Flask Effect", "13% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

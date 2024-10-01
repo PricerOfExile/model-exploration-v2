@@ -1,0 +1,31 @@
+{
+  "id" : "7d4737614bc2be127194ab59cce750af25c3b2da1adfdf0f177bcd5a02fd9fe4",
+  "baseType" : "Paua Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "23% increased Mana Regeneration Rate" ],
+  "explicitMods" : [ "Adds 5 to 11 Physical Damage to Attacks", "Adds 1 to 2 Fire Damage to Attacks", "+29% to Global Critical Strike Multiplier", "Gain 6 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "36", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

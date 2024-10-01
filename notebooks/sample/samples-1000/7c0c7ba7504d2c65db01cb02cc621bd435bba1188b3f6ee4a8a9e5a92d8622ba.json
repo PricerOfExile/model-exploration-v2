@@ -1,0 +1,31 @@
+{
+  "id" : "7c0c7ba7504d2c65db01cb02cc621bd435bba1188b3f6ee4a8a9e5a92d8622ba",
+  "baseType" : "Three Rat Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "13% increased Attributes" ],
+  "explicitMods" : [ "+21% to Global Critical Strike Multiplier", "8% increased Rarity of Items found", "Gain 8 Life per Enemy Killed", "34% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Searing Heat" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

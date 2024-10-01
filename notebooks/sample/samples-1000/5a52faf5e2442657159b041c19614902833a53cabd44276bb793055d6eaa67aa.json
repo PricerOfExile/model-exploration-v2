@@ -1,0 +1,31 @@
+{
+  "id" : "5a52faf5e2442657159b041c19614902833a53cabd44276bb793055d6eaa67aa",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 2 chaos",
+  "implicitMods" : [ "14% increased Rarity of Items found" ],
+  "explicitMods" : [ "+28 to Dexterity", "+34 to Intelligence", "Adds 1 to 2 Physical Damage to Attacks", "+59 to maximum Mana", "13% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

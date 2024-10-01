@@ -1,0 +1,34 @@
+{
+  "id" : "35f48050de12ac52606afe7e1bd9b4dce1c1b634d2b93313679c156937756ef6",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 86,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 divine",
+  "implicitMods" : [ "+17 to Strength and Intelligence" ],
+  "explicitMods" : [ "+18 to all Attributes", "+78 to maximum Mana", "+46% to Fire Resistance", "Gain 2 Mana per Enemy Killed", "+1 to Level of all Lightning Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "68", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Critical Modifiers)",
+    "values" : [ [ "+10%", 1 ] ]
+  } ],
+  "enchantMods" : [ "Allocates Silent Steps" ],
+  "craftedMods" : [ "+52 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

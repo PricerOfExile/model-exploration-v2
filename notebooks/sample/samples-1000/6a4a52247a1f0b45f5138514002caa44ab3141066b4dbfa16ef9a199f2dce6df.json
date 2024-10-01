@@ -1,0 +1,31 @@
+{
+  "id" : "6a4a52247a1f0b45f5138514002caa44ab3141066b4dbfa16ef9a199f2dce6df",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+18 to Strength and Intelligence" ],
+  "explicitMods" : [ "+30 to Strength", "Adds 4 to 10 Physical Damage to Attacks", "Gain 5 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "9% increased Cast Speed" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

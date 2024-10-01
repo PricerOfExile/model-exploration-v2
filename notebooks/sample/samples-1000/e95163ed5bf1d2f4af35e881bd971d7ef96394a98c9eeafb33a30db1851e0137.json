@@ -1,0 +1,31 @@
+{
+  "id" : "e95163ed5bf1d2f4af35e881bd971d7ef96394a98c9eeafb33a30db1851e0137",
+  "baseType" : "Jade Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "+22 to Dexterity" ],
+  "explicitMods" : [ "Adds 2 to 28 Lightning Damage to Attacks", "14% increased maximum Energy Shield", "+22% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+68 to maximum Mana" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

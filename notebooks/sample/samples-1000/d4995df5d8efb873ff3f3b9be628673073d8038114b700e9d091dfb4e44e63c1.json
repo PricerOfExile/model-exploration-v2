@@ -1,0 +1,31 @@
+{
+  "id" : "d4995df5d8efb873ff3f3b9be628673073d8038114b700e9d091dfb4e44e63c1",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+17 to Strength and Dexterity" ],
+  "explicitMods" : [ "Adds 5 to 12 Physical Damage to Attacks", "+25% to Global Critical Strike Multiplier", "+53 to maximum Mana", "+37% to Lightning Resistance", "+26% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Searing Heat" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

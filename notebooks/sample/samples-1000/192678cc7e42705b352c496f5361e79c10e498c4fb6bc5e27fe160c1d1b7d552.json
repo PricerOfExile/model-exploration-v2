@@ -1,0 +1,31 @@
+{
+  "id" : "192678cc7e42705b352c496f5361e79c10e498c4fb6bc5e27fe160c1d1b7d552",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 chaos",
+  "implicitMods" : [ "+23% to Fire Resistance" ],
+  "explicitMods" : [ "Adds 5 to 12 Physical Damage to Attacks", "+192 to Accuracy Rating", "+30% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

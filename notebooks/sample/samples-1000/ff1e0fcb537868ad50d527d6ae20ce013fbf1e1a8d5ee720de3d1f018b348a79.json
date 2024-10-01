@@ -1,0 +1,34 @@
+{
+  "id" : "ff1e0fcb537868ad50d527d6ae20ce013fbf1e1a8d5ee720de3d1f018b348a79",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 54,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 4 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+2 to Level of Socketed Gems", "6% increased Attack Speed", "+59 to maximum Life", "11% increased Mana Regeneration Rate", "+7% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

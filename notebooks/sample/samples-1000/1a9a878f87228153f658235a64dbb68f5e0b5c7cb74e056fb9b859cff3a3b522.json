@@ -1,0 +1,31 @@
+{
+  "id" : "1a9a878f87228153f658235a64dbb68f5e0b5c7cb74e056fb9b859cff3a3b522",
+  "baseType" : "Wereclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "+34% to Global Critical Strike Multiplier" ],
+  "explicitMods" : [ "8% increased Cold Damage", "+137 to Accuracy Rating", "15% increased Armour", "25% increased Evasion Rating", "0.32% of Physical Attack Damage Leeched as Mana", "Gain 3 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Combat Stamina" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

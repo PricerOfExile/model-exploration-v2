@@ -1,0 +1,31 @@
+{
+  "id" : "5ace1d95093025414d0d6ebfb795dd5a65b951c03be5556c7b6ddbe5fbf6d806",
+  "baseType" : "Amethyst Ring",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "+23% to Chaos Resistance" ],
+  "explicitMods" : [ "+150 to Evasion Rating", "+35 to maximum Energy Shield", "+70 to maximum Life", "Regenerate 43.3 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "+16% to Cold and Lightning Resistances" ],
+  "fracturedMods" : [ "+37% to Cold Resistance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

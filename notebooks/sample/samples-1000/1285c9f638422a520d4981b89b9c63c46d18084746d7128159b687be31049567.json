@@ -1,0 +1,31 @@
+{
+  "id" : "1285c9f638422a520d4981b89b9c63c46d18084746d7128159b687be31049567",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+24 to Strength and Dexterity" ],
+  "explicitMods" : [ "+37% to Global Critical Strike Multiplier", "+18 to maximum Energy Shield", "+30% to Fire Resistance", "+26% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Ash, Frost and Storm" ],
+  "craftedMods" : [ "+42 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

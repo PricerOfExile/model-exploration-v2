@@ -1,0 +1,31 @@
+{
+  "id" : "2b8930268d12241b2554977b19c0182875dc6bde8921fbc916890bfbdc8af9c4",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+29 to Strength" ],
+  "explicitMods" : [ "+30 to Dexterity", "+174 to Accuracy Rating", "Regenerate 1.5 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "7% increased Elemental Damage with Attack Skills" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "93df7d213ac2e3bebe266980a95f93d78709f6766c15b59ecae26480d68c5617",
+  "baseType" : "Clutching Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "20% increased Global Defences" ],
+  "explicitMods" : [ "+12 to Intelligence", "13% increased Fire Damage", "16% increased Global Critical Strike Chance", "8% increased Evasion Rating", "+17 to maximum Energy Shield", "21% increased maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Divine Fury" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,37 @@
+{
+  "id" : "84316233a9ba7e1a90b724037354bb6a77c6db6f8e8c5750b64a73db458b136f",
+  "baseType" : "Stygian Vise",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "Has 1 Abyssal Socket" ],
+  "explicitMods" : [ "+92 to maximum Life", "+33 to maximum Mana", "13% reduced Flask Charges used", "24% increased Flask Effect Duration", "18% increased Trap and Mine Throwing Speed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Speed Modifiers)",
+    "values" : [ [ "+20%", 1 ] ]
+  } ],
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "A"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

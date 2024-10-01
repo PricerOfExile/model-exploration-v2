@@ -1,0 +1,31 @@
+{
+  "id" : "8f34463217edcc2a0623502b9ffccdf84e07a6539cfc43821e46bd35773f5c91",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 10 chaos",
+  "implicitMods" : [ "+22 to Strength" ],
+  "explicitMods" : [ "+36 to Strength", "Adds 6 to 57 Lightning Damage to Attacks", "32% increased Evasion Rating", "39% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "23% increased Cold Damage" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

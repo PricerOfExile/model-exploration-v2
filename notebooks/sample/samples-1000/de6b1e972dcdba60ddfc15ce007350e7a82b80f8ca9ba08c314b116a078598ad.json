@@ -1,0 +1,31 @@
+{
+  "id" : "de6b1e972dcdba60ddfc15ce007350e7a82b80f8ca9ba08c314b116a078598ad",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+20 to Strength" ],
+  "explicitMods" : [ "21% increased Spell Damage", "3% increased Fire Damage", "Adds 13 to 25 Fire Damage to Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

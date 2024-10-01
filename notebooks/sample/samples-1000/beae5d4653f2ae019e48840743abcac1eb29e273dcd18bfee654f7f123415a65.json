@@ -1,0 +1,31 @@
+{
+  "id" : "beae5d4653f2ae019e48840743abcac1eb29e273dcd18bfee654f7f123415a65",
+  "baseType" : "Longtooth Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos #1",
+  "implicitMods" : [ "4% additional Physical Damage Reduction" ],
+  "explicitMods" : [ "+11 to Strength", "+48 to Intelligence", "+39 to maximum Life", "10% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Potency of Will" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

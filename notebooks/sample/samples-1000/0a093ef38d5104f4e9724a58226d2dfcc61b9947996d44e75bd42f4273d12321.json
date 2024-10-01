@@ -1,0 +1,31 @@
+{
+  "id" : "0a093ef38d5104f4e9724a58226d2dfcc61b9947996d44e75bd42f4273d12321",
+  "baseType" : "Chrysalis Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 49 chaos",
+  "implicitMods" : [ "22% increased Spell Damage" ],
+  "explicitMods" : [ "+43 to maximum Life", "40% increased Mana Regeneration Rate", "+7% to all Elemental Resistances", "Gain 3 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Essence Extraction" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "9dd7f7eda3900552a954acd4f066deff4b2f28528aeafe6d51946973b9e3dcc6",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+25% to Fire Resistance" ],
+  "explicitMods" : [ "54% increased Mana Regeneration Rate", "14% increased Rarity of Items found", "Gain 2 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

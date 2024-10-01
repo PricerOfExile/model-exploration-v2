@@ -1,0 +1,31 @@
+{
+  "id" : "961d9c8300fd172a851703777387af853f596c1cfed48b69d8cac33dc9cb56f5",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 2 chaos",
+  "implicitMods" : [ "+29 to maximum Mana" ],
+  "explicitMods" : [ "+12 to Intelligence", "8% increased Rarity of Items found", "+42% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

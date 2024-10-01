@@ -1,0 +1,31 @@
+{
+  "id" : "4a088cbe43e00000bddb2f78dc785e9b2a8868d7f9b2ad0d65699866c6551ea2",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 87,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 12 chaos",
+  "implicitMods" : [ "+22% to Fire Resistance" ],
+  "explicitMods" : [ "+37 to Intelligence", "+51 to maximum Life", "+13% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "+14% to Fire and Cold Resistances" ],
+  "fracturedMods" : [ "+49 to maximum Mana" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

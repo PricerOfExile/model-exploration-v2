@@ -1,0 +1,31 @@
+{
+  "id" : "3fbf86085a929d1b5083960f7453dfebb4e9c7a7c6eb36883e4f2ab861719648",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 9 chaos",
+  "implicitMods" : [ "+23 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "20% increased Cast Speed", "+5 to maximum Energy Shield", "Regenerate 5.3 Life per second", "+25 to maximum Mana", "0.71% of Physical Attack Damage Leeched as Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Diamond Skin" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

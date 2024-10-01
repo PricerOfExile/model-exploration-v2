@@ -1,0 +1,31 @@
+{
+  "id" : "62eed1e1c349341d4da08fab4eef97b0675ef557b27a0a96ff464755644a3e78",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "10% increased Rarity of Items found" ],
+  "explicitMods" : [ "+19 to Dexterity", "+3 to Evasion Rating", "+45 to maximum Energy Shield", "Regenerate 47.6 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

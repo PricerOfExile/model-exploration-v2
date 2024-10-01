@@ -1,0 +1,31 @@
+{
+  "id" : "2beefcbafe16eabf0c561d47733456f78f86f511f782da97f0463661aa12c51f",
+  "baseType" : "Deadhand Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "29% increased Chaos Damage" ],
+  "explicitMods" : [ "+41 to Intelligence", "Adds 3 to 34 Lightning Damage to Attacks", "+276 to Accuracy Rating", "+33% to Cold Resistance", "1.2% of Physical Attack Damage Leeched as Life", "6% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "56", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Admonisher" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

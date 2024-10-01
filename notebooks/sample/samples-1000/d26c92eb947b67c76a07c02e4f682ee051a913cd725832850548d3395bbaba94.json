@@ -1,0 +1,31 @@
+{
+  "id" : "d26c92eb947b67c76a07c02e4f682ee051a913cd725832850548d3395bbaba94",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 46,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 12 chaos",
+  "implicitMods" : [ "+20 to Strength and Dexterity" ],
+  "explicitMods" : [ "+15 to maximum Energy Shield", "+50 to maximum Life", "+45 to maximum Mana", "12% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Wisdom of the Glade" ],
+  "craftedMods" : [ "+16% to Cold and Lightning Resistances" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

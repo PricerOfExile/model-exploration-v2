@@ -1,0 +1,34 @@
+{
+  "id" : "d9444d6fa3080c04e1efe2a4fee5c2801421aa1421cb56b22b75dccf831d5c7b",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 50,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos 4",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "Adds 5 to 10 Cold Damage to Attacks", "Adds 1 to 5 Lightning Damage to Attacks", "7% increased Attack Speed", "11% increased Cast Speed", "+11% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

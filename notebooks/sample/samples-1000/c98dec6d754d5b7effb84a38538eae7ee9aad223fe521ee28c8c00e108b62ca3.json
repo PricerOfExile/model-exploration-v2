@@ -1,0 +1,31 @@
+{
+  "id" : "c98dec6d754d5b7effb84a38538eae7ee9aad223fe521ee28c8c00e108b62ca3",
+  "baseType" : "Longtooth Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 15 chaos",
+  "implicitMods" : [ "6% additional Physical Damage Reduction" ],
+  "explicitMods" : [ "11% increased Cold Damage", "26% increased Global Critical Strike Chance", "7% increased maximum Energy Shield", "+18% to Fire Resistance", "+1 to Level of all Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Soul Siphon" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

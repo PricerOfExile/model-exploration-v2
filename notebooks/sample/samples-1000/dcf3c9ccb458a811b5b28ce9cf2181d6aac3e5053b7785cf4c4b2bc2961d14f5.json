@@ -1,0 +1,31 @@
+{
+  "id" : "dcf3c9ccb458a811b5b28ce9cf2181d6aac3e5053b7785cf4c4b2bc2961d14f5",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 chaos",
+  "implicitMods" : [ "+30 to maximum Life" ],
+  "explicitMods" : [ "13% increased Global Accuracy Rating", "+87 to Evasion Rating", "+5 to maximum Life", "10% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "46", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

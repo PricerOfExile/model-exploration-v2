@@ -1,0 +1,31 @@
+{
+  "id" : "5702d23f9ad14ab7722a64a112732f36856efb65684737c30f9cb2c0a25f6127",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "+18 to Strength and Intelligence" ],
+  "explicitMods" : [ "Adds 7 to 18 Physical Damage to Attacks", "9% increased Fire Damage", "Adds 1 to 23 Lightning Damage to Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "41", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "da19e34099abb62abb9f84a09d50c2ac982a40c146d284ec607a0d7c3f51671b",
+  "baseType" : "Avian Twins Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 20 chaos",
+  "implicitMods" : [ "50% of Cold Damage from Hits taken as Lightning Damage" ],
+  "explicitMods" : [ "Adds 10 to 16 Physical Damage to Attacks", "Adds 1 to 41 Lightning Damage to Attacks", "15% increased Cast Speed", "12% increased Global Critical Strike Chance", "Gain 3 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "41", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Safeguard" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

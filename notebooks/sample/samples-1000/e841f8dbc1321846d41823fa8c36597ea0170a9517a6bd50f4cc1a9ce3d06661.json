@@ -1,0 +1,31 @@
+{
+  "id" : "e841f8dbc1321846d41823fa8c36597ea0170a9517a6bd50f4cc1a9ce3d06661",
+  "baseType" : "Studded Belt",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "23% increased Stun Duration on Enemies" ],
+  "explicitMods" : [ "Regenerate 12 Life per second", "+19 to maximum Mana", "+42% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

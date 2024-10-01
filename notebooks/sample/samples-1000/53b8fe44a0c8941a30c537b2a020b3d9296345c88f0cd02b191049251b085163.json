@@ -1,0 +1,31 @@
+{
+  "id" : "53b8fe44a0c8941a30c537b2a020b3d9296345c88f0cd02b191049251b085163",
+  "baseType" : "Topaz Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+20% to Lightning Resistance" ],
+  "explicitMods" : [ "Adds 14 to 26 Cold Damage to Attacks", "+8% to all Elemental Resistances", "+42% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "26% increased Rarity of Items found" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

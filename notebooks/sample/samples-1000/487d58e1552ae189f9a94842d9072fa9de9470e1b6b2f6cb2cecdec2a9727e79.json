@@ -1,0 +1,38 @@
+{
+  "id" : "487d58e1552ae189f9a94842d9072fa9de9470e1b6b2f6cb2cecdec2a9727e79",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 10 chaos",
+  "implicitMods" : [ "+36 to maximum Life" ],
+  "explicitMods" : [ "21% increased Global Physical Damage", "+46 to Armour", "8% increased maximum Life", "+29% to Lightning Resistance", "24% increased Melee Damage during any Flask Effect" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

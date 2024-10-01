@@ -1,0 +1,31 @@
+{
+  "id" : "2358540c041afb82a3b106a181f6304b91526f35cff6520f6aacc3601b53946e",
+  "baseType" : "Avian Twins Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "50% of Fire Damage from Hits taken as Lightning Damage" ],
+  "explicitMods" : [ "+27 to Dexterity", "+24 to maximum Energy Shield", "+39 to maximum Life", "+16% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Steeped in the Profane" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

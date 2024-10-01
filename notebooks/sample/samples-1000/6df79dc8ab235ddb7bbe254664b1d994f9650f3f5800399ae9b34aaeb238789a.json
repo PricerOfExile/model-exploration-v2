@@ -1,0 +1,31 @@
+{
+  "id" : "6df79dc8ab235ddb7bbe254664b1d994f9650f3f5800399ae9b34aaeb238789a",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+15 to all Attributes" ],
+  "explicitMods" : [ "+28 to Strength", "+34 to Dexterity", "25% increased Spell Damage", "20% increased Lightning Damage", "20% increased Evasion Rating" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

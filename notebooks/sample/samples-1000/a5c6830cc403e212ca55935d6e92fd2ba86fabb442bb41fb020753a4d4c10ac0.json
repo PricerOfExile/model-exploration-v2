@@ -1,0 +1,31 @@
+{
+  "id" : "a5c6830cc403e212ca55935d6e92fd2ba86fabb442bb41fb020753a4d4c10ac0",
+  "baseType" : "Mandible Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "9% increased Attack and Cast Speed" ],
+  "explicitMods" : [ "22% increased Cold Damage", "+83 to maximum Life", "+21% to Fire Resistance", "Gain 14 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "43", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Blood Siphon" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

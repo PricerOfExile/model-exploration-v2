@@ -1,0 +1,31 @@
+{
+  "id" : "754e2a45cb118f9fd7bf6dd9f8a8769efdb42c8a0d8fd5107985cb88310ac399",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+28 to Strength" ],
+  "explicitMods" : [ "Adds 9 to 14 Cold Damage to Attacks", "+34% to Global Critical Strike Multiplier", "+8 to maximum Energy Shield", "Regenerate 18.6 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "47", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+13% to Cold Resistance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "4e94c8bcbed397a4b903a1595ff884ad67af2c89739b14906a3078901a78d9b4",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+16 to all Attributes" ],
+  "explicitMods" : [ "+27 to Intelligence", "20% increased Spell Damage", "+13% to Damage over Time Multiplier", "12% increased maximum Energy Shield", "64% increased Mana Regeneration Rate", "26% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Field Medicine" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

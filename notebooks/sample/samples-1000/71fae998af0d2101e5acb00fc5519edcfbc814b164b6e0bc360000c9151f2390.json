@@ -1,0 +1,31 @@
+{
+  "id" : "71fae998af0d2101e5acb00fc5519edcfbc814b164b6e0bc360000c9151f2390",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 69,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "+23 to Strength and Intelligence" ],
+  "explicitMods" : [ "+17 to Strength", "Adds 10 to 17 Fire Damage to Attacks", "+27% to Global Critical Strike Multiplier" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "36", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Regenerate 13.6 Life per second" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

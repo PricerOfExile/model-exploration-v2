@@ -1,0 +1,31 @@
+{
+  "id" : "6aca20861b15253c69d145c86bc52fd7fc09b4575a22506220a58cda5ab34b08",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+31 to Strength" ],
+  "explicitMods" : [ "+25 to Strength", "+13% to Chaos Resistance", "27% increased Flask Life Recovery rate", "37% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

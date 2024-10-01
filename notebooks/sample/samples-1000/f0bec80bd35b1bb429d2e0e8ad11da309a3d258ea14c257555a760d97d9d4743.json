@@ -1,0 +1,31 @@
+{
+  "id" : "f0bec80bd35b1bb429d2e0e8ad11da309a3d258ea14c257555a760d97d9d4743",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 11 chaos",
+  "implicitMods" : [ "+19 to Strength and Dexterity" ],
+  "explicitMods" : [ "+17 to all Attributes", "+35 to Dexterity", "28% increased Evasion Rating", "+67 to maximum Mana", "Gain 9 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Dance of Blades" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

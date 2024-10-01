@@ -1,0 +1,31 @@
+{
+  "id" : "d5808e01b77bb24f0333f11aca5db525d7b3f801902395f6fd2752c0c223f1ec",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 65,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "9% increased Rarity of Items found" ],
+  "explicitMods" : [ "16% increased Cast Speed", "+69 to Evasion Rating", "+1 to maximum Energy Shield", "+29% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "10% increased Global Accuracy Rating", "5% increased Light Radius" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "56ed5a2ddd1214ed7bc7d5fc100e1bb76dbe8a6f0532612ed3eda8971b531592",
+  "baseType" : "Longtooth Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 3 chaos",
+  "implicitMods" : [ "5% additional Physical Damage Reduction" ],
+  "explicitMods" : [ "22% increased Spell Damage", "+80 to maximum Life", "+13% to all Elemental Resistances", "+12% to Cold Resistance", "Gain 6 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Divine Fury" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

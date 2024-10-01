@@ -1,0 +1,31 @@
+{
+  "id" : "33f7dccfbb648c1e8290936d9faece4675bb7dc0529b39122d0c3ad380412071",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 9 chaos",
+  "implicitMods" : [ "+34 to Strength" ],
+  "explicitMods" : [ "+19 to maximum Mana", "14% increased Stun and Block Recovery", "20% increased Flask Effect Duration" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Reflects 6 Physical Damage to Melee Attackers" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "c5ba0e788e66beae9fc5ea5984f3c3f3930088d9036148e1bd6f7e0d0c52ba62",
+  "baseType" : "Diamond Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "29% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "+25 to Intelligence", "+9 to maximum Energy Shield", "Regenerate 16.7 Life per second", "+13% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "26", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

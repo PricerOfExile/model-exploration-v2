@@ -1,0 +1,38 @@
+{
+  "id" : "4e9184c5dc79ae8285b9b4b8d13732eb9dcafa26fe2c4014e8babbf473ec4439",
+  "baseType" : "Blue Pearl Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "53% increased Mana Regeneration Rate" ],
+  "explicitMods" : [ "+51 to Dexterity", "16% increased Cast Speed", "+12% to Cold Resistance", "Projectiles Pierce an additional Target" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "77", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

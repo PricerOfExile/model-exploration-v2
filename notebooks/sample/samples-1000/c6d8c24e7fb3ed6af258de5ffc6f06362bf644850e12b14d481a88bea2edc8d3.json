@@ -1,0 +1,31 @@
+{
+  "id" : "c6d8c24e7fb3ed6af258de5ffc6f06362bf644850e12b14d481a88bea2edc8d3",
+  "baseType" : "Spinefuse Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 79,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "8% increased Quantity of Items found" ],
+  "explicitMods" : [ "+24 to Strength", "36% increased Armour", "24% increased Rarity of Items found", "+31% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Relentless Pursuit" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

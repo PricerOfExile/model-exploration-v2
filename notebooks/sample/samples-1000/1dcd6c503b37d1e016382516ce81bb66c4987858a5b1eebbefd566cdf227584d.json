@@ -1,0 +1,37 @@
+{
+  "id" : "1dcd6c503b37d1e016382516ce81bb66c4987858a5b1eebbefd566cdf227584d",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 20 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+55 to Intelligence", "Adds 2 to 5 Physical Damage to Attacks", "+164 to Evasion Rating", "+44 to maximum Energy Shield", "26% increased Rarity of Items found", "+52% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Resistance Modifiers)",
+    "values" : [ [ "+10%", 1 ] ]
+  } ],
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "612bbc0176511ffbd7ea24cb8498d25b8ea7839cfc780a95c1c08bf69931180e",
+  "baseType" : "Mandible Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 4 chaos",
+  "implicitMods" : [ "9% increased Attack and Cast Speed" ],
+  "explicitMods" : [ "+9 to Dexterity", "+26 to maximum Life", "Regenerate 16.4 Life per second", "+44% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Arcane Expanse" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

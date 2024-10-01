@@ -1,0 +1,38 @@
+{
+  "id" : "a888e2bb43bb24559c69a864e7e9bf5dad83a6b959b496d098e610a3a6746ad5",
+  "baseType" : "Topaz Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 20 chaos",
+  "implicitMods" : [ "+23% to Lightning Resistance" ],
+  "explicitMods" : [ "27% increased Rarity of Items found", "+25% to Fire Resistance", "+18% to Cold Resistance", "Adds 23 to 41 Fire Damage against Ignited Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "5ab8ef8ec3fa0b0ee5f4b49f501cffcb7770b02ffff460ed2e00d2f3ca15705d",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Magic",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 5 chaos",
+  "implicitMods" : [ "+21 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "Adds 1 to 33 Lightning Damage to Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "46", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "34% increased Global Critical Strike Chance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

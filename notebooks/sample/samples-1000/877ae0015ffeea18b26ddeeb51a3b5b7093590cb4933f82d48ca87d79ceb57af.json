@@ -1,0 +1,34 @@
+{
+  "id" : "877ae0015ffeea18b26ddeeb51a3b5b7093590cb4933f82d48ca87d79ceb57af",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1.5 divine",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+44 to maximum Energy Shield", "+79 to maximum Life", "+72 to maximum Mana", "15% of Damage taken Recouped as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "+15% to Cold and Lightning Resistances" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

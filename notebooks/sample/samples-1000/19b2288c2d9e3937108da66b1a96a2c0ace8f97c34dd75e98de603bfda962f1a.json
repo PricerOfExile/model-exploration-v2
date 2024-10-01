@@ -1,0 +1,34 @@
+{
+  "id" : "19b2288c2d9e3937108da66b1a96a2c0ace8f97c34dd75e98de603bfda962f1a",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 69,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 4 vaal",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "16% increased Cold Damage", "+29 to maximum Life", "+46 to maximum Mana", "13% increased Rarity of Items found", "+35% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "39", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "B"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

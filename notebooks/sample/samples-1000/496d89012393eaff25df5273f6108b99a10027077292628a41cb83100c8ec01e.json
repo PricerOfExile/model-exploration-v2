@@ -1,0 +1,31 @@
+{
+  "id" : "496d89012393eaff25df5273f6108b99a10027077292628a41cb83100c8ec01e",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+12% to Fire and Lightning Resistances" ],
+  "explicitMods" : [ "Adds 8 to 13 Physical Damage to Attacks", "+19 to maximum Energy Shield", "+34 to maximum Life", "14% of Damage taken Recouped as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "63", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Your Flamethrower Towers deal 25% increased Damage" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

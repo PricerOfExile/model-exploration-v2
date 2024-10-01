@@ -1,0 +1,31 @@
+{
+  "id" : "ecac3814715768052e13caa9b6c9996f81e6e893ddccdce77d00a1c4f2cdaeef",
+  "baseType" : "Turquoise Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+23 to Dexterity and Intelligence" ],
+  "explicitMods" : [ "+43 to Dexterity", "16% increased Lightning Damage", "+45 to maximum Energy Shield", "7% increased maximum Energy Shield", "+66 to maximum Mana", "+44% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Panopticon" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

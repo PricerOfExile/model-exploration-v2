@@ -1,0 +1,31 @@
+{
+  "id" : "08597eb04dd1052592c9e611c12068a90e87c62c750c8b3d2546e9de9b15a935",
+  "baseType" : "Chrysalis Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 76,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 49 chaos",
+  "implicitMods" : [ "22% increased Spell Damage" ],
+  "explicitMods" : [ "+21 to Strength", "Adds 6 to 68 Lightning Damage to Attacks", "+45 to maximum Energy Shield", "0.63% of Physical Attack Damage Leeched as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Aspect of the Lynx" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

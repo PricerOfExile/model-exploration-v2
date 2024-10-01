@@ -1,0 +1,31 @@
+{
+  "id" : "f4b59b0040fb49d05030812985942cb8325b48d12937d22a373cbdc4f32ffaf9",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 28 chaos",
+  "implicitMods" : [ "+13% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "Adds 1 to 2 Physical Damage to Attacks", "11% increased Rarity of Items found", "0.38% of Physical Attack Damage Leeched as Mana", "Gain 11 Life per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix03" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

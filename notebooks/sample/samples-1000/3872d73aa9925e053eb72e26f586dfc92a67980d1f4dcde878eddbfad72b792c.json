@@ -1,0 +1,31 @@
+{
+  "id" : "3872d73aa9925e053eb72e26f586dfc92a67980d1f4dcde878eddbfad72b792c",
+  "baseType" : "Coral Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 30 chaos",
+  "implicitMods" : [ "Regenerate 3.5 Life per second" ],
+  "explicitMods" : [ "Adds 3 to 6 Physical Damage to Attacks", "6% increased maximum Energy Shield", "+39 to maximum Mana" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+38% to Global Critical Strike Multiplier" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

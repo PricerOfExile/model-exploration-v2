@@ -1,0 +1,31 @@
+{
+  "id" : "8747098cee51ee543b5805c473beff0168fdfdec3e3a4b7fd83c8f63b2fadfc5",
+  "baseType" : "Studded Belt",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 8 chaos",
+  "implicitMods" : [ "22% increased Stun Duration on Enemies" ],
+  "explicitMods" : [ "+6 to Armour", "+36 to maximum Life", "+33% to Lightning Resistance", "9% increased Flask Effect Duration" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "50", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "32% increased Flask Life Recovery rate" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

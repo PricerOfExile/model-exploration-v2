@@ -1,0 +1,31 @@
+{
+  "id" : "865d382ce4f169e4ffa72bc59f58c39794b71f46905e7707f120ee3ca5f0a2a1",
+  "baseType" : "Wereclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+28% to Global Critical Strike Multiplier" ],
+  "explicitMods" : [ "17% increased Spell Damage", "Adds 3 to 5 Physical Damage to Attacks", "+67 to maximum Life", "51% increased Mana Regeneration Rate", "15% increased Rarity of Items found", "+16% to all Elemental Resistances" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Command of Steel" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

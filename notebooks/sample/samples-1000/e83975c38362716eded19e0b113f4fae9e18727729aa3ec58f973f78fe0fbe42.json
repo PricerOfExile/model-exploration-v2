@@ -1,0 +1,31 @@
+{
+  "id" : "e83975c38362716eded19e0b113f4fae9e18727729aa3ec58f973f78fe0fbe42",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "+22 to Strength and Intelligence" ],
+  "explicitMods" : [ "Adds 5 to 68 Lightning Damage to Attacks", "17% increased Cast Speed", "12% increased Rarity of Items found", "+12% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Prefix04" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

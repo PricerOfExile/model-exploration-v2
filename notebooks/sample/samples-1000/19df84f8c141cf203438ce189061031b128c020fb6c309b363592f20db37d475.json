@@ -1,0 +1,31 @@
+{
+  "id" : "19df84f8c141cf203438ce189061031b128c020fb6c309b363592f20db37d475",
+  "baseType" : "Fangjaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "9% increased maximum Life" ],
+  "explicitMods" : [ "16% increased Cast Speed", "+7 to maximum Energy Shield", "16% increased maximum Energy Shield", "12% increased Rarity of Items found", "Gain 3 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Combat Stamina" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

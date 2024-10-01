@@ -1,0 +1,31 @@
+{
+  "id" : "aef630bd75c97f376ae587fde6d230dda641dfb423acab019dc89c91c06cf210",
+  "baseType" : "Wereclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 020 chaos",
+  "implicitMods" : [ "+34% to Global Critical Strike Multiplier" ],
+  "explicitMods" : [ "Adds 10 to 20 Physical Damage to Attacks", "17% increased Cast Speed", "+26 to maximum Energy Shield", "+34% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "51", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Master of the Arena" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

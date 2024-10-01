@@ -1,0 +1,31 @@
+{
+  "id" : "84a9363f34fc2843beaf94d4031604edac54b5e30d1d442c54133ba297cb9b6e",
+  "baseType" : "Splitnewt Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "6% chance to Freeze, Shock and Ignite" ],
+  "explicitMods" : [ "Adds 6 to 12 Physical Damage to Attacks", "Adds 9 to 21 Fire Damage to Attacks", "12% increased maximum Energy Shield", "Regenerate 30.1 Life per second", "+4% to all Elemental Resistances", "+43% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Vampirism" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

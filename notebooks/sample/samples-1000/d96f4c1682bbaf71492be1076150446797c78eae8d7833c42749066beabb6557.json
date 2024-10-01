@@ -1,0 +1,31 @@
+{
+  "id" : "d96f4c1682bbaf71492be1076150446797c78eae8d7833c42749066beabb6557",
+  "baseType" : "Monkey Twins Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos #1",
+  "implicitMods" : [ "5% increased Area of Effect" ],
+  "explicitMods" : [ "+49 to Dexterity", "3% increased Spell Damage", "16% increased Armour", "10% increased Evasion Rating", "Regenerate 11.1 Life per second", "+26% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Cauterisation" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

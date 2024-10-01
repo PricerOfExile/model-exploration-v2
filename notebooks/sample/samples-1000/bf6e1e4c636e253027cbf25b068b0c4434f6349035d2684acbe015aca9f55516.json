@@ -1,0 +1,31 @@
+{
+  "id" : "bf6e1e4c636e253027cbf25b068b0c4434f6349035d2684acbe015aca9f55516",
+  "baseType" : "Coral Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 81,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 28 chaos",
+  "implicitMods" : [ "Regenerate 3.5 Life per second" ],
+  "explicitMods" : [ "+31 to all Attributes", "Adds 4 to 10 Physical Damage to Attacks", "+72 to maximum Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

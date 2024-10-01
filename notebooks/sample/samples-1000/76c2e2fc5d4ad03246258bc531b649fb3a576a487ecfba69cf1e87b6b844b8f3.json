@@ -1,0 +1,31 @@
+{
+  "id" : "76c2e2fc5d4ad03246258bc531b649fb3a576a487ecfba69cf1e87b6b844b8f3",
+  "baseType" : "Gold Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 76,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 0 chaos",
+  "implicitMods" : [ "20% increased Rarity of Items found" ],
+  "explicitMods" : [ "+37 to Intelligence", "+10 to maximum Energy Shield", "+39% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Minions have 19% increased Movement Speed" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "7be7fa1d14c190e992741090c9b53e001580cd688fd2e434cc10b3f88875848e",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 10 chaos",
+  "implicitMods" : [ "+37 to maximum Life" ],
+  "explicitMods" : [ "+4 to Armour", "Regenerate 28.9 Life per second", "19% increased Stun and Block Recovery", "11% increased Flask Mana Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+45% to Cold Resistance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

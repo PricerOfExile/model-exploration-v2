@@ -1,0 +1,38 @@
+{
+  "id" : "e31c694263b2cf0a041007b77e1aa9ca4c0f637e5ea6fdf1078549dbe59c4d44",
+  "baseType" : "Marble Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "Regenerate 1.4% of Life per second" ],
+  "explicitMods" : [ "+19 to all Attributes", "26% increased Global Critical Strike Chance", "18% increased maximum Energy Shield", "+20 to maximum Mana", "Gain 15% of Physical Damage as Extra Fire Damage" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "74", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "63e0b55af86306ed31b3e5dee5819abc6002792782e5552ca66df2d4e58385ed",
+  "baseType" : "Crystal Belt",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "+60 to maximum Energy Shield" ],
+  "explicitMods" : [ "+47 to maximum Energy Shield", "+68 to maximum Mana", "+20% to Cold Resistance", "17% increased Stun Duration on Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "79", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+28 to Strength" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

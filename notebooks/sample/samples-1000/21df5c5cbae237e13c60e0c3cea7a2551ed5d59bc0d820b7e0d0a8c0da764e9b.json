@@ -1,0 +1,31 @@
+{
+  "id" : "21df5c5cbae237e13c60e0c3cea7a2551ed5d59bc0d820b7e0d0a8c0da764e9b",
+  "baseType" : "Bonespire Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "25% increased maximum Mana" ],
+  "explicitMods" : [ "Adds 7 to 11 Physical Damage to Attacks", "19% increased Evasion Rating", "+3% to all Elemental Resistances", "Gain 2 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "33", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Arcane Capacitor" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

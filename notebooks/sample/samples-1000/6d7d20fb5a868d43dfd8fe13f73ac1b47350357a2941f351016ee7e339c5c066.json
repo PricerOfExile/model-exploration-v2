@@ -1,0 +1,34 @@
+{
+  "id" : "6d7d20fb5a868d43dfd8fe13f73ac1b47350357a2941f351016ee7e339c5c066",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 61,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 chaos BIG",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "Regenerate 1.4 Life per second", "+25 to maximum Mana", "35% increased Mana Regeneration Rate", "+24% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "G"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "dfbadf099c7fe44b5d3fd13b508d20c71b66107b896cdd3f9fe6bc95aa200737",
+  "baseType" : "Lone Antler Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 76,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 chaos",
+  "implicitMods" : [ "26% increased Lightning Damage" ],
+  "explicitMods" : [ "13% increased Lightning Damage", "11% increased maximum Energy Shield", "+30% to Lightning Resistance", "+1 to Level of all Cold Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Malicious Intent" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

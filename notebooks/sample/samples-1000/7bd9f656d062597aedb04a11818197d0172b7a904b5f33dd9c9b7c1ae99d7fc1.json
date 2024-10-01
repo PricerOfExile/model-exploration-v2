@@ -1,0 +1,31 @@
+{
+  "id" : "7bd9f656d062597aedb04a11818197d0172b7a904b5f33dd9c9b7c1ae99d7fc1",
+  "baseType" : "Moonstone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "+15 to maximum Energy Shield" ],
+  "explicitMods" : [ "Adds 3 to 6 Physical Damage to Attacks", "+117 to Evasion Rating", "Regenerate 3 Life per second", "+23 to maximum Mana", "+21% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+44 to Dexterity" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

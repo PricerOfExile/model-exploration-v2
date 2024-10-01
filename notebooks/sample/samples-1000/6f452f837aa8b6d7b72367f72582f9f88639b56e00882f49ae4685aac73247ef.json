@@ -1,0 +1,31 @@
+{
+  "id" : "6f452f837aa8b6d7b72367f72582f9f88639b56e00882f49ae4685aac73247ef",
+  "baseType" : "Diamond Ring",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 3 chaos",
+  "implicitMods" : [ "29% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "19% increased Fire Damage", "Adds 1 to 5 Lightning Damage to Attacks", "+7 to Evasion Rating", "+24 to maximum Life", "53% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

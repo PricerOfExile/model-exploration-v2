@@ -1,0 +1,31 @@
+{
+  "id" : "49aa2a97f71839fa9be00e1c64fbd3fb41bad978abba31e3298fe1a29a7faa58",
+  "baseType" : "Cloth Belt",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 10 chaos",
+  "implicitMods" : [ "17% increased Stun and Block Recovery" ],
+  "explicitMods" : [ "+25 to Armour", "+15 to maximum Life", "+29% to Cold Resistance", "12% increased Stun Duration on Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "57", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+45% to Lightning Resistance" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

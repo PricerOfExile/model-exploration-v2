@@ -1,0 +1,34 @@
+{
+  "id" : "ca966f23b55eac446873b0e2f7c71c2c560389a41ba648e81ac17b8fd4d30c6d",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 62,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 8 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "Adds 11 to 20 Cold Damage to Attacks", "20% increased Global Accuracy Rating", "+6 to Evasion Rating", "Gain 1 Mana per Enemy Killed", "15% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "36", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

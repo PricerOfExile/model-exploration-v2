@@ -1,0 +1,31 @@
+{
+  "id" : "a33303a2aba5269138f42c1e8dced800feb02052091dc01f4b21c34e6dbf022b",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 29 chaos",
+  "implicitMods" : [ "+16 to all Attributes" ],
+  "explicitMods" : [ "+30 to all Attributes", "+37 to Strength", "Adds 10 to 22 Physical Damage to Attacks", "+37 to maximum Life", "+48% to Cold Resistance", "0.22% of Physical Attack Damage Leeched as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Instability" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

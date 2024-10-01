@@ -1,0 +1,31 @@
+{
+  "id" : "683cde155ab1be081e766439f84c0a3a59a059eb97f7bad3747b4c76b0a043ac",
+  "baseType" : "Lone Antler Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "22% increased Lightning Damage" ],
+  "explicitMods" : [ "+45 to Strength", "+16 to Intelligence", "4% increased Evasion Rating", "5% increased maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Powerful Bond" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

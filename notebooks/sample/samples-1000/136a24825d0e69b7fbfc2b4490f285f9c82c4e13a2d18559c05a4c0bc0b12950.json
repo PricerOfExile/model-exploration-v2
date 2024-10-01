@@ -1,0 +1,31 @@
+{
+  "id" : "136a24825d0e69b7fbfc2b4490f285f9c82c4e13a2d18559c05a4c0bc0b12950",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 73,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 3 chaos",
+  "implicitMods" : [ "8% increased Rarity of Items found" ],
+  "explicitMods" : [ "17% increased Global Accuracy Rating", "+36 to maximum Life", "35% increased Mana Regeneration Rate", "15% increased Light Radius" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "24", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

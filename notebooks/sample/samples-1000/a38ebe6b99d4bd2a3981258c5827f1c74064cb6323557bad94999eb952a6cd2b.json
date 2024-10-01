@@ -1,0 +1,38 @@
+{
+  "id" : "a38ebe6b99d4bd2a3981258c5827f1c74064cb6323557bad94999eb952a6cd2b",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "+23% to Fire Resistance" ],
+  "explicitMods" : [ "Adds 1 to 2 Fire Damage to Attacks", "+33 to maximum Energy Shield", "Regenerate 2.2 Life per second", "+17% to Lightning Resistance", "39% reduced Effect of Curses on you" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : true,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

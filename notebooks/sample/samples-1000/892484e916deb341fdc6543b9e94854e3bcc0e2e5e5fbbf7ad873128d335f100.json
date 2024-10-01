@@ -1,0 +1,38 @@
+{
+  "id" : "892484e916deb341fdc6543b9e94854e3bcc0e2e5e5fbbf7ad873128d335f100",
+  "baseType" : "Diamond Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "21% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "+41 to Strength", "+168 to Evasion Rating", "+47 to maximum Energy Shield", "+33 to maximum Mana", "+41% to Cold Resistance", "+35% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "67", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "a59f386259e27cc138cbabfd0d0c380135d1e1ecdef906518e32d434fa2ddcd7",
+  "baseType" : "Breakrib Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 77,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 20 chaos",
+  "implicitMods" : [ "27% increased Global Physical Damage" ],
+  "explicitMods" : [ "+31 to all Attributes", "+48 to Dexterity", "Adds 3 to 41 Lightning Damage to Attacks", "+41 to maximum Energy Shield", "+48 to maximum Mana", "+27% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Bannerman" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

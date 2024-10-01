@@ -1,0 +1,31 @@
+{
+  "id" : "99b46ab44509255b4f84767cef34b9a3cc5e935893af9c9bfae4b94e54446265",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+30% to Fire Resistance" ],
+  "explicitMods" : [ "Adds 5 to 9 Physical Damage to Attacks", "+27 to maximum Energy Shield", "+78 to maximum Mana", "+40% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "68", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Your Temporal Towers also grant Stun Immunity" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

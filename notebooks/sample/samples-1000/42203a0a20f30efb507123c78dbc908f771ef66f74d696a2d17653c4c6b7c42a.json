@@ -1,0 +1,31 @@
+{
+  "id" : "42203a0a20f30efb507123c78dbc908f771ef66f74d696a2d17653c4c6b7c42a",
+  "baseType" : "Onyx Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 80,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 100 chaos",
+  "implicitMods" : [ "+12 to all Attributes" ],
+  "explicitMods" : [ "+32 to Strength and Dexterity", "34% increased Evasion Rating", "Regenerate 4.2 Life per second", "+8% to Cold Resistance", "+1 to Level of all Skill Gems" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "64", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Whispers of Doom" ],
+  "craftedMods" : [ "+37 to maximum Mana", "6% of Damage taken Recouped as Mana" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

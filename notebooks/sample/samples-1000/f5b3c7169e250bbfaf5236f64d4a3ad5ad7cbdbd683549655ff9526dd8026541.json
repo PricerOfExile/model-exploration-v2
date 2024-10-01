@@ -1,0 +1,31 @@
+{
+  "id" : "f5b3c7169e250bbfaf5236f64d4a3ad5ad7cbdbd683549655ff9526dd8026541",
+  "baseType" : "Mandible Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "8% increased Attack and Cast Speed" ],
+  "explicitMods" : [ "Adds 7 to 12 Physical Damage to Attacks", "Adds 10 to 18 Cold Damage to Attacks", "24% increased Global Critical Strike Chance", "+4 to maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Fangs of Frost" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

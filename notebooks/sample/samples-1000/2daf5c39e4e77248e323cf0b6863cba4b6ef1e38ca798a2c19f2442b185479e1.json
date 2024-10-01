@@ -1,0 +1,31 @@
+{
+  "id" : "2daf5c39e4e77248e323cf0b6863cba4b6ef1e38ca798a2c19f2442b185479e1",
+  "baseType" : "Citrine Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "+21 to Strength and Dexterity" ],
+  "explicitMods" : [ "Adds 2 to 22 Lightning Damage to Attacks", "+74 to maximum Mana", "+16% to all Elemental Resistances", "+39% to Cold Resistance", "+34% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "68", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Primal Spirit" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

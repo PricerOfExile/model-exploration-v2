@@ -1,0 +1,31 @@
+{
+  "id" : "bac93d64fc43bcddbb9c5b0f358d8f8d1e597ecf7a72f486ab22832aee220709",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "+39 to maximum Life" ],
+  "explicitMods" : [ "+16 to maximum Energy Shield", "+13% to Fire Resistance", "36% increased Flask Life Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Flasks applied to you have 5% increased Effect" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

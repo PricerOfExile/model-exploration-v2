@@ -1,0 +1,31 @@
+{
+  "id" : "6d1744b66cbdb5b187267f3ba4c6ef4a85be2303d623760808c4fadfaad97d3f",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+20 to maximum Mana" ],
+  "explicitMods" : [ "Adds 1 to 2 Physical Damage to Attacks", "+47 to maximum Energy Shield", "+74 to maximum Life", "48% increased Mana Regeneration Rate", "+23% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

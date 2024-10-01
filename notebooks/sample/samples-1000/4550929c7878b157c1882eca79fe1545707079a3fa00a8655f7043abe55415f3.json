@@ -1,0 +1,34 @@
+{
+  "id" : "4550929c7878b157c1882eca79fe1545707079a3fa00a8655f7043abe55415f3",
+  "baseType" : "Stygian Vise",
+  "rarity" : "Rare",
+  "ilvl" : 66,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 chaos",
+  "implicitMods" : [ "Has 1 Abyssal Socket" ],
+  "explicitMods" : [ "11% reduced Enemy Stun Threshold", "+43 to maximum Life", "+26% to Lightning Resistance", "6% increased Flask Life Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "29", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "A"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

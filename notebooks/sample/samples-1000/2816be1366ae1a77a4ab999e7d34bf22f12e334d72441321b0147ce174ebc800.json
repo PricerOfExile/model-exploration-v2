@@ -1,0 +1,31 @@
+{
+  "id" : "2816be1366ae1a77a4ab999e7d34bf22f12e334d72441321b0147ce174ebc800",
+  "baseType" : "Mandible Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 5 chaos",
+  "implicitMods" : [ "8% increased Attack and Cast Speed" ],
+  "explicitMods" : [ "3% increased Spell Damage", "+38 to maximum Energy Shield", "3% increased maximum Energy Shield", "39% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Soul Thief" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

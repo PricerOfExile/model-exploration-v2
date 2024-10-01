@@ -1,0 +1,31 @@
+{
+  "id" : "81e66199dd79a91222ffffd3c386492c9c7f69b2c4ecbc184e744777067ba0cb",
+  "baseType" : "Iron Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "Adds 1 to 4 Physical Damage to Attacks" ],
+  "explicitMods" : [ "+6 to all Attributes", "Adds 6 to 9 Physical Damage to Attacks", "Adds 7 to 11 Fire Damage to Attacks", "Regenerate 3.8 Life per second" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "22", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

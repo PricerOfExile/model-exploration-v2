@@ -1,0 +1,31 @@
+{
+  "id" : "021526c69ee3dfc17ac46c8dfb5efd9acd97dda5722eb6aaf8d16f89c5c7db8b",
+  "baseType" : "Lapis Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 50 chaos",
+  "implicitMods" : [ "+28 to Intelligence" ],
+  "explicitMods" : [ "Adds 2 to 22 Lightning Damage to Attacks", "+13% to Global Critical Strike Multiplier", "+59 to maximum Life", "26% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Weapon Artistry" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

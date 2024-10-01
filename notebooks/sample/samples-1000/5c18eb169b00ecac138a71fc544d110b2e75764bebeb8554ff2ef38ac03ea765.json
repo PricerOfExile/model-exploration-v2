@@ -1,0 +1,34 @@
+{
+  "id" : "5c18eb169b00ecac138a71fc544d110b2e75764bebeb8554ff2ef38ac03ea765",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 51,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 12 chaos",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+13 to Intelligence", "Adds 4 to 7 Physical Damage to Attacks", "16% increased Lightning Damage", "+40 to maximum Mana", "10% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "28", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

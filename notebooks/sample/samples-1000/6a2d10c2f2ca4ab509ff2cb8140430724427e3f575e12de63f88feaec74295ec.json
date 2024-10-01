@@ -1,0 +1,38 @@
+{
+  "id" : "6a2d10c2f2ca4ab509ff2cb8140430724427e3f575e12de63f88feaec74295ec",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 58 chaos",
+  "implicitMods" : [ "+21 to Strength and Intelligence" ],
+  "explicitMods" : [ "+54 to Dexterity", "10% increased Spell Damage", "Adds 11 to 21 Cold Damage to Attacks", "+36% to Global Critical Strike Multiplier", "4% increased Quantity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : [ "+53 to maximum Life" ],
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : true,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

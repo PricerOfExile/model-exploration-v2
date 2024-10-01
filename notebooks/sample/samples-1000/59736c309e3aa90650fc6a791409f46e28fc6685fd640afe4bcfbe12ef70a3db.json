@@ -1,0 +1,31 @@
+{
+  "id" : "59736c309e3aa90650fc6a791409f46e28fc6685fd640afe4bcfbe12ef70a3db",
+  "baseType" : "Spinefuse Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 55 chaos",
+  "implicitMods" : [ "8% increased Quantity of Items found" ],
+  "explicitMods" : [ "+32 to all Attributes", "+28 to Intelligence", "Adds 7 to 11 Physical Damage to Attacks", "+15% to Global Critical Strike Multiplier" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Druidic Rite" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

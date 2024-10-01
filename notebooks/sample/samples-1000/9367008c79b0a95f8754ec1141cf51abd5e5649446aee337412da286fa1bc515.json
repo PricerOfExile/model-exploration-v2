@@ -1,0 +1,34 @@
+{
+  "id" : "9367008c79b0a95f8754ec1141cf51abd5e5649446aee337412da286fa1bc515",
+  "baseType" : "Agate Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 50 chaos",
+  "implicitMods" : [ "+19 to Strength and Intelligence" ],
+  "explicitMods" : [ "+53 to Dexterity", "+52 to Intelligence", "26% increased Spell Damage", "35% increased Evasion Rating", "20% increased maximum Energy Shield", "60% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "65", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Elemental Damage Modifiers)",
+    "values" : [ [ "+12%", 1 ] ]
+  } ],
+  "enchantMods" : [ "Allocates Alacrity" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

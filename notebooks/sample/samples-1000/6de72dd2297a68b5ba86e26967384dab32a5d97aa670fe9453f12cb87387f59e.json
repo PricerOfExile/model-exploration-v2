@@ -1,0 +1,31 @@
+{
+  "id" : "6de72dd2297a68b5ba86e26967384dab32a5d97aa670fe9453f12cb87387f59e",
+  "baseType" : "Hexclaw Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "45% increased Global Critical Strike Chance" ],
+  "explicitMods" : [ "+12 to maximum Energy Shield", "Regenerate 45.5 Life per second", "+17 to maximum Mana", "54% increased Mana Regeneration Rate", "+14% to Lightning Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates King of the Hill" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

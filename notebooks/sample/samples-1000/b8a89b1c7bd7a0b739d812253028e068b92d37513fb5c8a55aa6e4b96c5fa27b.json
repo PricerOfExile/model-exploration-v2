@@ -1,0 +1,41 @@
+{
+  "id" : "b8a89b1c7bd7a0b739d812253028e068b92d37513fb5c8a55aa6e4b96c5fa27b",
+  "baseType" : "Iron Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 15 chaos",
+  "implicitMods" : [ "Adds 1 to 4 Physical Damage to Attacks" ],
+  "explicitMods" : [ "+245 to Accuracy Rating", "+147 to Evasion Rating", "+22 to maximum Energy Shield", "+44% to Fire Resistance", "13% of Damage taken Recouped as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "63", 0 ] ]
+  } ],
+  "properties" : [ {
+    "name" : "Quality (Critical Modifiers)",
+    "values" : [ [ "+15%", 1 ] ]
+  } ],
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : false,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : true,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

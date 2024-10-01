@@ -1,0 +1,31 @@
+{
+  "id" : "a94a654de52bc20d053e54a47745e195d749036d0748872507ce21ef68d108a4",
+  "baseType" : "Coral Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos",
+  "implicitMods" : [ "Regenerate 2.5 Life per second" ],
+  "explicitMods" : [ "+35 to Dexterity", "11% increased Lightning Damage", "25% increased Armour" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

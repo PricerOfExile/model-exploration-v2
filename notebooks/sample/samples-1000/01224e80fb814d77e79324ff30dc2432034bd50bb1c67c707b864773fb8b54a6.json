@@ -1,0 +1,31 @@
+{
+  "id" : "01224e80fb814d77e79324ff30dc2432034bd50bb1c67c707b864773fb8b54a6",
+  "baseType" : "Mandible Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "8% increased Attack and Cast Speed" ],
+  "explicitMods" : [ "Adds 15 to 28 Cold Damage to Attacks", "15% increased Lightning Damage", "+37% to Fire Resistance", "Gain 5 Mana per Enemy Killed" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Heart of the Warrior" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

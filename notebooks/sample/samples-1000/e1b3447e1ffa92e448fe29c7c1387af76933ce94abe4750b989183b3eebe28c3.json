@@ -1,0 +1,31 @@
+{
+  "id" : "e1b3447e1ffa92e448fe29c7c1387af76933ce94abe4750b989183b3eebe28c3",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+30% to Fire Resistance" ],
+  "explicitMods" : [ "Adds 7 to 11 Cold Damage to Attacks", "+28 to maximum Mana", "19% increased Mana Regeneration Rate", "12% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "24", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix02" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

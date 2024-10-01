@@ -1,0 +1,31 @@
+{
+  "id" : "afa5e8dd97e596ac646cab3a6b15b7d4abe87877f00480eb5853c100104d5c45",
+  "baseType" : "Gold Ring",
+  "rarity" : "Rare",
+  "ilvl" : 70,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos 장막",
+  "implicitMods" : [ "6% increased Rarity of Items found" ],
+  "explicitMods" : [ "Adds 6 to 13 Physical Damage to Attacks", "Regenerate 5 Life per second", "+12% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "35", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "070cfe80ae7b061918c3385756973c8b8868147c49c36cdd7b369ea2c4e96d70",
+  "baseType" : "Amber Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 9 chaos",
+  "implicitMods" : [ "+26 to Strength" ],
+  "explicitMods" : [ "6% increased Cast Speed", "36% increased Global Critical Strike Chance", "34% increased Evasion Rating", "+8% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "61", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Flash Freeze" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

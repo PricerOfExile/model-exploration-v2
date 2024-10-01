@@ -1,0 +1,31 @@
+{
+  "id" : "b57d5d088b8cada8d8781691505908f13d4b80d2fd66f2743d3f36d983503755",
+  "baseType" : "Coral Ring",
+  "rarity" : "Rare",
+  "ilvl" : 71,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 6 chaos",
+  "implicitMods" : [ "+29 to maximum Life" ],
+  "explicitMods" : [ "+58 to maximum Life", "22% increased Mana Regeneration Rate", "+13% to Chaos Resistance", "7% of Damage taken Recouped as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "+21 to maximum Energy Shield" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

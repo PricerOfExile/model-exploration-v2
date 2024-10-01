@@ -1,0 +1,31 @@
+{
+  "id" : "a8c09fa7cea7c39012e585e3b15fddcbaad5cb1075611e7f0198f6eab1f01822",
+  "baseType" : "Longtooth Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 17 chaos",
+  "implicitMods" : [ "4% additional Physical Damage Reduction" ],
+  "explicitMods" : [ "+31 to Dexterity", "Adds 8 to 18 Physical Damage to Attacks", "+35% to Global Critical Strike Multiplier", "+28% to Cold Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Elder Power" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

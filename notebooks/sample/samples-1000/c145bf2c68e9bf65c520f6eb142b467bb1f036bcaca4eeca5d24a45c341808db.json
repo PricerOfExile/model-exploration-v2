@@ -1,0 +1,31 @@
+{
+  "id" : "c145bf2c68e9bf65c520f6eb142b467bb1f036bcaca4eeca5d24a45c341808db",
+  "baseType" : "Spinefuse Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 82,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 divine",
+  "implicitMods" : [ "10% increased Quantity of Items found" ],
+  "explicitMods" : [ "+44 to Strength", "+32 to Intelligence", "Adds 8 to 18 Physical Damage to Attacks", "Adds 2 to 34 Lightning Damage to Attacks", "+39% to Fire Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "59", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Indomitable Army" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

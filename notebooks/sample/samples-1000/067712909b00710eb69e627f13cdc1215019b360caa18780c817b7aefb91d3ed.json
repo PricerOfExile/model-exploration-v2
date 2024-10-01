@@ -1,0 +1,31 @@
+{
+  "id" : "067712909b00710eb69e627f13cdc1215019b360caa18780c817b7aefb91d3ed",
+  "baseType" : "Paua Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1 divine",
+  "implicitMods" : [ "29% increased Mana Regeneration Rate" ],
+  "explicitMods" : [ "+42 to Dexterity", "+80 to maximum Life", "+68 to maximum Mana", "+16% to all Elemental Resistances", "36% increased Elemental Damage with Attack Skills" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Skittering Runes" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

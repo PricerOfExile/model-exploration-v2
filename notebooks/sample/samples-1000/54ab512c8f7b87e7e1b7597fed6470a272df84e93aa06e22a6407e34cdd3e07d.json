@@ -1,0 +1,38 @@
+{
+  "id" : "54ab512c8f7b87e7e1b7597fed6470a272df84e93aa06e22a6407e34cdd3e07d",
+  "baseType" : "Paua Ring",
+  "rarity" : "Rare",
+  "ilvl" : 83,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "+23 to maximum Mana" ],
+  "explicitMods" : [ "Adds 6 to 12 Physical Damage to Attacks", "16% increased Cold Damage", "6% increased Global Accuracy Rating", "+30% to Cold Resistance", "Adds 22 to 44 Fire Damage against Ignited Enemies" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "54", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

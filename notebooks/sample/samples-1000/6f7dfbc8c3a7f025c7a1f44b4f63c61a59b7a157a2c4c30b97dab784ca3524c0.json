@@ -1,0 +1,31 @@
+{
+  "id" : "6f7dfbc8c3a7f025c7a1f44b4f63c61a59b7a157a2c4c30b97dab784ca3524c0",
+  "baseType" : "Paua Amulet",
+  "rarity" : "Rare",
+  "ilvl" : 78,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 11 chaos",
+  "implicitMods" : [ "30% increased Mana Regeneration Rate" ],
+  "explicitMods" : [ "+11 to Intelligence", "Adds 17 to 34 Fire Damage to Attacks", "+20 to maximum Energy Shield" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "51", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix06" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

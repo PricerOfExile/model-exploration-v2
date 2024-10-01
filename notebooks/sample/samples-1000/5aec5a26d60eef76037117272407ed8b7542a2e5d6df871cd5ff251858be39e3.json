@@ -1,0 +1,31 @@
+{
+  "id" : "5aec5a26d60eef76037117272407ed8b7542a2e5d6df871cd5ff251858be39e3",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 2 chaos veiled",
+  "implicitMods" : [ "+12% to Fire and Lightning Resistances" ],
+  "explicitMods" : [ "Adds 2 to 5 Physical Damage to Attacks", "+192 to Accuracy Rating", "+3 to maximum Life", "+59 to maximum Mana", "+30% to Chaos Resistance" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "52", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix05" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "8d30f07691ed68165e146c7bf6a75f35ff9166d0f1e121d8df3257ffc47edeb8",
+  "baseType" : "Two-Stone Ring",
+  "rarity" : "Rare",
+  "ilvl" : 72,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 31 divine",
+  "implicitMods" : [ "+15% to Fire and Cold Resistances" ],
+  "explicitMods" : [ "+10 to Intelligence", "Adds 1 to 2 Fire Damage to Attacks", "54% increased Mana Regeneration Rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "Adds 7 to 11 Physical Damage to Attacks" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

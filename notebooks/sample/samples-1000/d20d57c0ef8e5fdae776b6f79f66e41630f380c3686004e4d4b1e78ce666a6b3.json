@@ -1,0 +1,31 @@
+{
+  "id" : "d20d57c0ef8e5fdae776b6f79f66e41630f380c3686004e4d4b1e78ce666a6b3",
+  "baseType" : "Heavy Belt",
+  "rarity" : "Rare",
+  "ilvl" : 75,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 6 chaos",
+  "implicitMods" : [ "+27 to Strength" ],
+  "explicitMods" : [ "+3 to maximum Life", "+51 to maximum Mana", "+10% to Cold Resistance", "Reflects 5 Physical Damage to Melee Attackers" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "40", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : [ "Suffix01" ],
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

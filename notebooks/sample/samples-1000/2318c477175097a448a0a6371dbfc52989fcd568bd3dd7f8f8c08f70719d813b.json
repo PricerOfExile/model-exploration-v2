@@ -1,0 +1,38 @@
+{
+  "id" : "2318c477175097a448a0a6371dbfc52989fcd568bd3dd7f8f8c08f70719d813b",
+  "baseType" : "Leather Belt",
+  "rarity" : "Rare",
+  "ilvl" : 85,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~b/o 1.5 divine",
+  "implicitMods" : [ "+38 to maximum Life" ],
+  "explicitMods" : [ "+28 to Strength", "12% increased Attributes", "4% increased maximum Life", "10% increased Life Recovery rate" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "60", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : {
+    "warlord" : false,
+    "elder" : true,
+    "shaper" : false,
+    "crusader" : false,
+    "redeemer" : false,
+    "hunter" : false
+  },
+  "accessories" : true,
+  "notUnique" : true
+}

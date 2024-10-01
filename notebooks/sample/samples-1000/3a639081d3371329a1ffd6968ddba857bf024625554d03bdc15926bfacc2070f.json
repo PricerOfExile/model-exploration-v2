@@ -1,0 +1,31 @@
+{
+  "id" : "3a639081d3371329a1ffd6968ddba857bf024625554d03bdc15926bfacc2070f",
+  "baseType" : "Horned Talisman",
+  "rarity" : "Rare",
+  "ilvl" : 74,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos",
+  "implicitMods" : [ "Projectiles Pierce 2 additional Targets" ],
+  "explicitMods" : [ "+3 to all Attributes", "+219 to Accuracy Rating", "+15 to maximum Energy Shield", "+42 to maximum Mana", "12% increased Rarity of Items found" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "32", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : [ "Allocates Tempest Blast" ],
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : true,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

@@ -1,0 +1,34 @@
+{
+  "id" : "aac7de2c16864fa3473e8a82d82ba94f65910c64baea1e552b50baf8edfeaa74",
+  "baseType" : "Unset Ring",
+  "rarity" : "Rare",
+  "ilvl" : 84,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 20 chaos 1",
+  "implicitMods" : [ "Has 1 Socket" ],
+  "explicitMods" : [ "+5 to all Attributes", "Adds 1 to 2 Fire Damage to Attacks", "Regenerate 8.4 Life per second", "8% of Damage taken Recouped as Life" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "44", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : null,
+  "veiledMods" : null,
+  "sockets" : [ {
+    "group" : 0,
+    "sColour" : "R"
+  } ],
+  "fractured" : false,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}

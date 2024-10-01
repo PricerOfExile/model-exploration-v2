@@ -1,0 +1,31 @@
+{
+  "id" : "d3a2e6f11239e207dd5adb9bb8e12e56633af3ae46910300223eb5a45f5c770e",
+  "baseType" : "Ruby Ring",
+  "rarity" : "Rare",
+  "ilvl" : 67,
+  "identified" : true,
+  "extended" : {
+    "category" : "accessories"
+  },
+  "note" : "~price 1 chaos",
+  "implicitMods" : [ "+26% to Fire Resistance" ],
+  "explicitMods" : [ "Adds 2 to 4 Physical Damage to Attacks", "+113 to Evasion Rating", "+38% to Cold Resistance", "+16% to Chaos Resistance", "Gain 2 Life per Enemy Hit with Attacks" ],
+  "requirements" : [ {
+    "name" : "Level",
+    "values" : [ [ "48", 0 ] ]
+  } ],
+  "properties" : null,
+  "enchantMods" : null,
+  "craftedMods" : null,
+  "fracturedMods" : [ "0.28% of Physical Attack Damage Leeched as Life" ],
+  "veiledMods" : null,
+  "sockets" : null,
+  "fractured" : true,
+  "synthesised" : false,
+  "duplicated" : false,
+  "split" : false,
+  "corrupted" : false,
+  "influences" : null,
+  "accessories" : true,
+  "notUnique" : true
+}
