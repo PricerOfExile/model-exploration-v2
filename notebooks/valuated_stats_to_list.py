@@ -1,4 +1,5 @@
 from typing import List
+# this file is auto generated
 
 def valuated_stats_to_list(data) -> List[float]:
     valuated_stats = data.get('valuatedStats', [])
